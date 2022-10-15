@@ -1,5 +1,6 @@
 import { parse } from "node-html-parser"
 import { readFileSync, writeFileSync } from "fs"
+import axios from "axios"
 
 async function exec() {
     // The html is an edited version of the skills Id Hosted at GWW, with an id inserted in the desired element (start of the table body)
@@ -22,6 +23,11 @@ async function exec() {
     }
 
     writeFileSync("./skills.json", JSON.stringify(skills, null, 2))
+
+
+    const detailsPage = await axios.get(skills["Cleave"].detailsPage)
+    console.log(detailsPage)
+
 }
 
 exec().catch(e => console.log(e))

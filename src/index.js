@@ -35,27 +35,38 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
         if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
     }
 };
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
 Object.defineProperty(exports, "__esModule", { value: true });
 var node_html_parser_1 = require("node-html-parser");
 var fs_1 = require("fs");
+var axios_1 = __importDefault(require("axios"));
 function exec() {
     return __awaiter(this, void 0, void 0, function () {
-        var gwwSkillsHtml, gwwSkills, tableBody, tableElements, skills, i, currentTableElem, skillsId, skillsName, detailsPage;
+        var gwwSkillsHtml, gwwSkills, tableBody, tableElements, skills, i, currentTableElem, skillsId, skillsName, detailsPage_1, detailsPage;
         return __generator(this, function (_a) {
-            gwwSkillsHtml = (0, fs_1.readFileSync)("./gwwHtmlSkills").toString();
-            gwwSkills = (0, node_html_parser_1.parse)(gwwSkillsHtml);
-            tableBody = gwwSkills.querySelectorAll("#SkillsTable")[0];
-            tableElements = tableBody.childNodes.filter(function (child) { return child.constructor.name === "HTMLElement"; });
-            skills = {};
-            for (i = 1; i < tableElements.length; i++) {
-                currentTableElem = tableElements[i].childNodes.filter(function (child) { return child.constructor.name === "HTMLElement"; });
-                skillsId = currentTableElem[0].childNodes[0].rawText;
-                skillsName = currentTableElem[1].childNodes[0].childNodes[0].rawText;
-                detailsPage = currentTableElem[1].childNodes[0].getAttribute('href');
-                skills[skillsName] = { id: parseInt(skillsId), detailsPage: detailsPage };
+            switch (_a.label) {
+                case 0:
+                    gwwSkillsHtml = (0, fs_1.readFileSync)("./gwwHtmlSkills").toString();
+                    gwwSkills = (0, node_html_parser_1.parse)(gwwSkillsHtml);
+                    tableBody = gwwSkills.querySelectorAll("#SkillsTable")[0];
+                    tableElements = tableBody.childNodes.filter(function (child) { return child.constructor.name === "HTMLElement"; });
+                    skills = {};
+                    for (i = 1; i < tableElements.length; i++) {
+                        currentTableElem = tableElements[i].childNodes.filter(function (child) { return child.constructor.name === "HTMLElement"; });
+                        skillsId = currentTableElem[0].childNodes[0].rawText;
+                        skillsName = currentTableElem[1].childNodes[0].childNodes[0].rawText;
+                        detailsPage_1 = currentTableElem[1].childNodes[0].getAttribute('href');
+                        skills[skillsName] = { id: parseInt(skillsId), detailsPage: detailsPage_1 };
+                    }
+                    (0, fs_1.writeFileSync)("./skills.json", JSON.stringify(skills, null, 2));
+                    return [4 /*yield*/, axios_1.default.get(skills["Cleave"].detailsPage)];
+                case 1:
+                    detailsPage = _a.sent();
+                    console.log(detailsPage);
+                    return [2 /*return*/];
             }
-            (0, fs_1.writeFileSync)("./skills.json", JSON.stringify(skills, null, 2));
-            return [2 /*return*/];
         });
     });
 }
