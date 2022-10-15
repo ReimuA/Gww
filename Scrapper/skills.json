@@ -1,0 +1,5874 @@
+{
+  "Resurrection Signet": {
+    "id": 2,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Resurrection_Signet"
+  },
+  "Signet of Capture": {
+    "id": 3,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Capture"
+  },
+  "Agonizing Chop": {
+    "id": 1403,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Agonizing_Chop"
+  },
+  "Axe Rake": {
+    "id": 334,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Axe_Rake"
+  },
+  "Axe Twist": {
+    "id": 342,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Axe_Twist"
+  },
+  "Cleave": {
+    "id": 335,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Cleave"
+  },
+  "Critical Chop": {
+    "id": 1402,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Critical_Chop"
+  },
+  "Cyclone Axe": {
+    "id": 330,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Cyclone_Axe"
+  },
+  "Decapitate": {
+    "id": 1696,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Decapitate"
+  },
+  "Dismember": {
+    "id": 337,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dismember"
+  },
+  "Disrupting Chop": {
+    "id": 340,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Disrupting_Chop"
+  },
+  "Eviscerate": {
+    "id": 338,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Eviscerate"
+  },
+  "Executioner's Strike": {
+    "id": 336,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Executioner%27s_Strike"
+  },
+  "Furious Axe": {
+    "id": 904,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Furious_Axe"
+  },
+  "Keen Chop": {
+    "id": 2009,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Keen_Chop"
+  },
+  "Lacerating Chop": {
+    "id": 849,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lacerating_Chop"
+  },
+  "Penetrating Blow": {
+    "id": 339,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Penetrating_Blow"
+  },
+  "Penetrating Chop": {
+    "id": 1136,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Penetrating_Chop"
+  },
+  "Swift Chop": {
+    "id": 341,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Swift_Chop"
+  },
+  "Triple Chop": {
+    "id": 992,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Triple_Chop"
+  },
+  "Whirling Axe": {
+    "id": 888,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Whirling_Axe"
+  },
+  "Auspicious Blow": {
+    "id": 905,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Auspicious_Blow"
+  },
+  "Backbreaker": {
+    "id": 358,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Backbreaker"
+  },
+  "Belly Smash": {
+    "id": 350,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Belly_Smash"
+  },
+  "Counter Blow": {
+    "id": 357,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Counter_Blow"
+  },
+  "Crude Swing": {
+    "id": 353,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Crude_Swing"
+  },
+  "Crushing Blow": {
+    "id": 352,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Crushing_Blow"
+  },
+  "Devastating Hammer": {
+    "id": 355,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Devastating_Hammer"
+  },
+  "Earth Shaker": {
+    "id": 354,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Earth_Shaker"
+  },
+  "Enraged Smash": {
+    "id": 993,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Enraged_Smash"
+  },
+  "Fierce Blow": {
+    "id": 850,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Fierce_Blow"
+  },
+  "Forceful Blow": {
+    "id": 889,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Forceful_Blow"
+  },
+  "Hammer Bash": {
+    "id": 331,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Hammer_Bash"
+  },
+  "Heavy Blow": {
+    "id": 359,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Heavy_Blow"
+  },
+  "Irresistible Blow": {
+    "id": 356,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Irresistible_Blow"
+  },
+  "Magehunter's Smash": {
+    "id": 1697,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Magehunter%27s_Smash"
+  },
+  "Mighty Blow": {
+    "id": 351,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mighty_Blow"
+  },
+  "Mokele Smash": {
+    "id": 1409,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mokele_Smash"
+  },
+  "Overbearing Smash": {
+    "id": 1410,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Overbearing_Smash"
+  },
+  "Pulverizing Smash": {
+    "id": 2008,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pulverizing_Smash"
+  },
+  "Renewing Smash": {
+    "id": 994,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Renewing_Smash"
+  },
+  "Staggering Blow": {
+    "id": 360,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Staggering_Blow"
+  },
+  "Yeti Smash": {
+    "id": 1137,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Yeti_Smash"
+  },
+  "\"I Meant to Do That!\"": {
+    "id": 2067,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22I_Meant_to_Do_That!%22"
+  },
+  "\"I Will Avenge You!\"": {
+    "id": 333,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22I_Will_Avenge_You!%22"
+  },
+  "\"I Will Survive!\"": {
+    "id": 368,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22I_Will_Survive!%22"
+  },
+  "\"You Will Die!\"": {
+    "id": 1141,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22You_Will_Die!%22"
+  },
+  "Battle Rage": {
+    "id": 317,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Battle_Rage"
+  },
+  "Berserker Stance": {
+    "id": 370,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Berserker_Stance"
+  },
+  "Body Blow": {
+    "id": 2197,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Body_Blow"
+  },
+  "Bull's Charge": {
+    "id": 379,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Bull%27s_Charge"
+  },
+  "Bull's Strike": {
+    "id": 332,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Bull%27s_Strike"
+  },
+  "Burst of Aggression": {
+    "id": 1413,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Burst_of_Aggression"
+  },
+  "Charging Strike": {
+    "id": 1405,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Charging_Strike"
+  },
+  "Counterattack": {
+    "id": 1693,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Counterattack"
+  },
+  "Defy Pain": {
+    "id": 318,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Defy_Pain"
+  },
+  "Disarm": {
+    "id": 2066,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Disarm"
+  },
+  "Dolyak Signet": {
+    "id": 361,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dolyak_Signet"
+  },
+  "Dwarven Battle Stance": {
+    "id": 375,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dwarven_Battle_Stance"
+  },
+  "Endure Pain": {
+    "id": 347,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Endure_Pain"
+  },
+  "Enraging Charge": {
+    "id": 1414,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Enraging_Charge"
+  },
+  "Flail": {
+    "id": 1404,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Flail"
+  },
+  "Flourish": {
+    "id": 389,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Flourish"
+  },
+  "Griffon's Sweep": {
+    "id": 327,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Griffon%27s_Sweep"
+  },
+  "Headbutt": {
+    "id": 1406,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Headbutt"
+  },
+  "Leviathan's Sweep": {
+    "id": 1134,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Leviathan%27s_Sweep"
+  },
+  "Lion's Comfort": {
+    "id": 1407,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lion%27s_Comfort"
+  },
+  "Magehunter Strike": {
+    "id": 1694,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Magehunter_Strike"
+  },
+  "Power Attack": {
+    "id": 322,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Power_Attack"
+  },
+  "Primal Rage": {
+    "id": 831,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Primal_Rage"
+  },
+  "Protector's Strike": {
+    "id": 326,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Protector%27s_Strike"
+  },
+  "Rage of the Ntouka": {
+    "id": 1408,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rage_of_the_Ntouka"
+  },
+  "Rush": {
+    "id": 319,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rush"
+  },
+  "Shield Bash": {
+    "id": 363,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shield_Bash"
+  },
+  "Signet of Stamina": {
+    "id": 1411,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Stamina"
+  },
+  "Signet of Strength": {
+    "id": 944,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Strength"
+  },
+  "Sprint": {
+    "id": 349,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sprint"
+  },
+  "Tiger Stance": {
+    "id": 995,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Tiger_Stance"
+  },
+  "Warrior's Cunning": {
+    "id": 362,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Warrior%27s_Cunning"
+  },
+  "Warrior's Endurance": {
+    "id": 374,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Warrior%27s_Endurance"
+  },
+  "Barbarous Slice": {
+    "id": 1416,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Barbarous_Slice"
+  },
+  "Crippling Slash": {
+    "id": 1415,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Crippling_Slash"
+  },
+  "Dragon Slash": {
+    "id": 907,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dragon_Slash"
+  },
+  "Final Thrust": {
+    "id": 385,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Final_Thrust"
+  },
+  "Galrath Slash": {
+    "id": 383,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Galrath_Slash"
+  },
+  "Gash": {
+    "id": 384,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Gash"
+  },
+  "Hamstring": {
+    "id": 320,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Hamstring"
+  },
+  "Hundred Blades": {
+    "id": 381,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Hundred_Blades"
+  },
+  "Jaizhenju Strike": {
+    "id": 1135,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Jaizhenju_Strike"
+  },
+  "Knee Cutter": {
+    "id": 2010,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Knee_Cutter"
+  },
+  "Pure Strike": {
+    "id": 328,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pure_Strike"
+  },
+  "Quivering Blade": {
+    "id": 892,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Quivering_Blade"
+  },
+  "Savage Slash": {
+    "id": 390,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Savage_Slash"
+  },
+  "Seeking Blade": {
+    "id": 386,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Seeking_Blade"
+  },
+  "Sever Artery": {
+    "id": 382,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sever_Artery"
+  },
+  "Silverwing Slash": {
+    "id": 1144,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Silverwing_Slash"
+  },
+  "Standing Slash": {
+    "id": 996,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Standing_Slash"
+  },
+  "Steelfang Slash": {
+    "id": 1702,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Steelfang_Slash"
+  },
+  "Sun and Moon Slash": {
+    "id": 851,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sun_and_Moon_Slash"
+  },
+  "\"Charge!\"": {
+    "id": 364,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Charge!%22"
+  },
+  "\"Fear Me!\"": {
+    "id": 366,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Fear_Me!%22"
+  },
+  "\"None Shall Pass!\"": {
+    "id": 891,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22None_Shall_Pass!%22"
+  },
+  "\"Retreat!\"": {
+    "id": 839,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Retreat!%22"
+  },
+  "\"Shields Up!\"": {
+    "id": 367,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Shields_Up!%22"
+  },
+  "\"To the Limit!\"": {
+    "id": 316,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22To_the_Limit!%22"
+  },
+  "\"Victory Is Mine!\"": {
+    "id": 365,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Victory_Is_Mine!%22"
+  },
+  "\"Watch Yourself!\"": {
+    "id": 348,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Watch_Yourself!%22"
+  },
+  "Auspicious Parry": {
+    "id": 1142,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Auspicious_Parry"
+  },
+  "Balanced Stance": {
+    "id": 371,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Balanced_Stance"
+  },
+  "Bonetti's Defense": {
+    "id": 380,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Bonetti%27s_Defense"
+  },
+  "Deadly Riposte": {
+    "id": 388,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Deadly_Riposte"
+  },
+  "Defensive Stance": {
+    "id": 345,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Defensive_Stance"
+  },
+  "Deflect Arrows": {
+    "id": 373,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Deflect_Arrows"
+  },
+  "Desperation Blow": {
+    "id": 323,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Desperation_Blow"
+  },
+  "Disciplined Stance": {
+    "id": 376,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Disciplined_Stance"
+  },
+  "Drunken Blow": {
+    "id": 1133,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Drunken_Blow"
+  },
+  "Gladiator's Defense": {
+    "id": 372,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Gladiator%27s_Defense"
+  },
+  "Healing Signet": {
+    "id": 1,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Healing_Signet"
+  },
+  "Protector's Defense": {
+    "id": 810,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Protector%27s_Defense"
+  },
+  "Riposte": {
+    "id": 387,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Riposte"
+  },
+  "Shield Stance": {
+    "id": 378,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shield_Stance"
+  },
+  "Shove": {
+    "id": 1146,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shove"
+  },
+  "Soldier's Defense": {
+    "id": 1699,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Soldier%27s_Defense"
+  },
+  "Soldier's Speed": {
+    "id": 2196,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Soldier%27s_Speed"
+  },
+  "Soldier's Stance": {
+    "id": 1698,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Soldier%27s_Stance"
+  },
+  "Soldier's Strike": {
+    "id": 1695,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Soldier%27s_Strike"
+  },
+  "Steady Stance": {
+    "id": 1701,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Steady_Stance"
+  },
+  "Thrill of Victory": {
+    "id": 324,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Thrill_of_Victory"
+  },
+  "Wary Stance": {
+    "id": 377,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wary_Stance"
+  },
+  "\"Coward!\"": {
+    "id": 869,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Coward!%22"
+  },
+  "\"For Great Justice!\"": {
+    "id": 343,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22For_Great_Justice!%22"
+  },
+  "\"Let's Get 'Em!\"": {
+    "id": 1014,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Let%27s_Get_%27Em!%22"
+  },
+  "\"On Your Knees!\"": {
+    "id": 906,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22On_Your_Knees!%22"
+  },
+  "\"You're All Alone!\"": {
+    "id": 1412,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22You%27re_All_Alone!%22"
+  },
+  "Distracting Blow": {
+    "id": 325,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Distracting_Blow"
+  },
+  "Distracting Strike": {
+    "id": 2194,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Distracting_Strike"
+  },
+  "Flurry": {
+    "id": 344,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Flurry"
+  },
+  "Frenzied Defense": {
+    "id": 1700,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Frenzied_Defense"
+  },
+  "Frenzy": {
+    "id": 346,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Frenzy"
+  },
+  "Grapple": {
+    "id": 2011,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Grapple"
+  },
+  "Skull Crack": {
+    "id": 329,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Skull_Crack"
+  },
+  "Storm of Swords": {
+    "id": 1140,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Storm_of_Swords"
+  },
+  "Symbolic Strike": {
+    "id": 2195,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Symbolic_Strike"
+  },
+  "Wild Blow": {
+    "id": 321,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wild_Blow"
+  },
+  "Bestial Fury": {
+    "id": 1209,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Bestial_Fury"
+  },
+  "Bestial Mauling": {
+    "id": 1203,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Bestial_Mauling"
+  },
+  "Bestial Pounce": {
+    "id": 437,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Bestial_Pounce"
+  },
+  "Brutal Strike": {
+    "id": 444,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Brutal_Strike"
+  },
+  "Call of Haste": {
+    "id": 415,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Call_of_Haste"
+  },
+  "Call of Protection": {
+    "id": 412,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Call_of_Protection"
+  },
+  "Charm Animal": {
+    "id": 411,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Charm_Animal"
+  },
+  "Comfort Animal": {
+    "id": 436,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Comfort_Animal"
+  },
+  "Companionship": {
+    "id": 2141,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Companionship"
+  },
+  "Disrupting Lunge": {
+    "id": 445,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Disrupting_Lunge"
+  },
+  "Edge of Extinction": {
+    "id": 464,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Edge_of_Extinction"
+  },
+  "Energizing Wind": {
+    "id": 474,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Energizing_Wind"
+  },
+  "Enraged Lunge": {
+    "id": 1202,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Enraged_Lunge"
+  },
+  "Feral Aggression": {
+    "id": 2142,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Feral_Aggression"
+  },
+  "Feral Lunge": {
+    "id": 439,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Feral_Lunge"
+  },
+  "Ferocious Strike": {
+    "id": 442,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ferocious_Strike"
+  },
+  "Fertile Season": {
+    "id": 467,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Fertile_Season"
+  },
+  "Heal as One": {
+    "id": 1195,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Heal_as_One"
+  },
+  "Heket's Rampage": {
+    "id": 1728,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Heket%27s_Rampage"
+  },
+  "Lacerate": {
+    "id": 961,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lacerate"
+  },
+  "Maiming Strike": {
+    "id": 438,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Maiming_Strike"
+  },
+  "Melandru's Assault": {
+    "id": 441,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Melandru%27s_Assault"
+  },
+  "Otyugh's Cry": {
+    "id": 447,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Otyugh%27s_Cry"
+  },
+  "Poisonous Bite": {
+    "id": 1205,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Poisonous_Bite"
+  },
+  "Pounce": {
+    "id": 1206,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pounce"
+  },
+  "Predator's Pounce": {
+    "id": 443,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Predator%27s_Pounce"
+  },
+  "Predatory Bond": {
+    "id": 1194,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Predatory_Bond"
+  },
+  "Predatory Season": {
+    "id": 470,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Predatory_Season"
+  },
+  "Primal Echoes": {
+    "id": 469,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Primal_Echoes"
+  },
+  "Rampage as One": {
+    "id": 1721,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rampage_as_One"
+  },
+  "Revive Animal": {
+    "id": 422,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Revive_Animal"
+  },
+  "Run as One": {
+    "id": 811,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Run_as_One"
+  },
+  "Savage Pounce": {
+    "id": 1201,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Savage_Pounce"
+  },
+  "Scavenger Strike": {
+    "id": 440,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Scavenger_Strike"
+  },
+  "Strike as One": {
+    "id": 1468,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Strike_as_One"
+  },
+  "Symbiosis": {
+    "id": 468,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Symbiosis"
+  },
+  "Symbiotic Bond": {
+    "id": 423,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Symbiotic_Bond"
+  },
+  "Tiger's Fury": {
+    "id": 454,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Tiger%27s_Fury"
+  },
+  "Toxicity": {
+    "id": 1472,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Toxicity"
+  },
+  "Viper's Nest": {
+    "id": 1211,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Viper%27s_Nest"
+  },
+  "Archer's Signet": {
+    "id": 1200,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Archer%27s_Signet"
+  },
+  "Distracting Shot": {
+    "id": 399,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Distracting_Shot"
+  },
+  "Dodge": {
+    "id": 425,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dodge"
+  },
+  "Escape": {
+    "id": 448,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Escape"
+  },
+  "Expert Focus": {
+    "id": 2145,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Expert_Focus"
+  },
+  "Expert's Dexterity": {
+    "id": 1724,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Expert%27s_Dexterity"
+  },
+  "Glass Arrows": {
+    "id": 1199,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glass_Arrows"
+  },
+  "Infuriating Heat": {
+    "id": 1730,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Infuriating_Heat"
+  },
+  "Lightning Reflexes": {
+    "id": 453,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lightning_Reflexes"
+  },
+  "Marksman's Wager": {
+    "id": 430,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Marksman%27s_Wager"
+  },
+  "Oath Shot": {
+    "id": 405,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Oath_Shot"
+  },
+  "Point Blank Shot": {
+    "id": 407,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Point_Blank_Shot"
+  },
+  "Practiced Stance": {
+    "id": 449,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Practiced_Stance"
+  },
+  "Throw Dirt": {
+    "id": 424,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Throw_Dirt"
+  },
+  "Trapper's Focus": {
+    "id": 946,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Trapper%27s_Focus"
+  },
+  "Trapper's Speed": {
+    "id": 1475,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Trapper%27s_Speed"
+  },
+  "Whirling Defense": {
+    "id": 450,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Whirling_Defense"
+  },
+  "Zojun's Haste": {
+    "id": 1196,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Zojun%27s_Haste"
+  },
+  "Zojun's Shot": {
+    "id": 1192,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Zojun%27s_Shot"
+  },
+  "Arcing Shot": {
+    "id": 1467,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Arcing_Shot"
+  },
+  "Barrage": {
+    "id": 395,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Barrage"
+  },
+  "Body Shot": {
+    "id": 2198,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Body_Shot"
+  },
+  "Broad Head Arrow": {
+    "id": 1198,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Broad_Head_Arrow"
+  },
+  "Burning Arrow": {
+    "id": 1466,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Burning_Arrow"
+  },
+  "Concussion Shot": {
+    "id": 408,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Concussion_Shot"
+  },
+  "Crippling Shot": {
+    "id": 393,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Crippling_Shot"
+  },
+  "Crossfire": {
+    "id": 1469,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Crossfire"
+  },
+  "Debilitating Shot": {
+    "id": 406,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Debilitating_Shot"
+  },
+  "Determined Shot": {
+    "id": 402,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Determined_Shot"
+  },
+  "Disrupting Accuracy": {
+    "id": 1723,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Disrupting_Accuracy"
+  },
+  "Disrupting Shot": {
+    "id": 2143,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Disrupting_Shot"
+  },
+  "Favorable Winds": {
+    "id": 472,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Favorable_Winds"
+  },
+  "Focused Shot": {
+    "id": 909,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Focused_Shot"
+  },
+  "Hunter's Shot": {
+    "id": 391,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Hunter%27s_Shot"
+  },
+  "Keen Arrow": {
+    "id": 1720,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Keen_Arrow"
+  },
+  "Marauder's Shot": {
+    "id": 908,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Marauder%27s_Shot"
+  },
+  "Melandru's Shot": {
+    "id": 853,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Melandru%27s_Shot"
+  },
+  "Needling Shot": {
+    "id": 1197,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Needling_Shot"
+  },
+  "Penetrating Attack": {
+    "id": 398,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Penetrating_Attack"
+  },
+  "Pin Down": {
+    "id": 392,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pin_Down"
+  },
+  "Power Shot": {
+    "id": 394,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Power_Shot"
+  },
+  "Precision Shot": {
+    "id": 400,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Precision_Shot"
+  },
+  "Prepared Shot": {
+    "id": 1465,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Prepared_Shot"
+  },
+  "Punishing Shot": {
+    "id": 409,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Punishing_Shot"
+  },
+  "Rapid Fire": {
+    "id": 2068,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rapid_Fire"
+  },
+  "Read the Wind": {
+    "id": 432,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Read_the_Wind"
+  },
+  "Savage Shot": {
+    "id": 426,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Savage_Shot"
+  },
+  "Screaming Shot": {
+    "id": 1719,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Screaming_Shot"
+  },
+  "Seeking Arrows": {
+    "id": 893,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Seeking_Arrows"
+  },
+  "Sloth Hunter's Shot": {
+    "id": 2069,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sloth_Hunter%27s_Shot"
+  },
+  "Splinter Shot": {
+    "id": 852,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Splinter_Shot"
+  },
+  "Sundering Attack": {
+    "id": 1191,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sundering_Attack"
+  },
+  "Volley": {
+    "id": 2144,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Volley"
+  },
+  "Apply Poison": {
+    "id": 435,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Apply_Poison"
+  },
+  "Barbed Arrows": {
+    "id": 1470,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Barbed_Arrows"
+  },
+  "Barbed Trap": {
+    "id": 458,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Barbed_Trap"
+  },
+  "Brambles": {
+    "id": 947,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Brambles"
+  },
+  "Choking Gas": {
+    "id": 434,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Choking_Gas"
+  },
+  "Conflagration": {
+    "id": 466,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Conflagration"
+  },
+  "Dryder's Defenses": {
+    "id": 452,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dryder%27s_Defenses"
+  },
+  "Dust Trap": {
+    "id": 457,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dust_Trap"
+  },
+  "Equinox": {
+    "id": 1212,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Equinox"
+  },
+  "Famine": {
+    "id": 997,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Famine"
+  },
+  "Flame Trap": {
+    "id": 459,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Flame_Trap"
+  },
+  "Frozen Soil": {
+    "id": 471,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Frozen_Soil"
+  },
+  "Greater Conflagration": {
+    "id": 465,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Greater_Conflagration"
+  },
+  "Healing Spring": {
+    "id": 460,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Healing_Spring"
+  },
+  "Ignite Arrows": {
+    "id": 431,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ignite_Arrows"
+  },
+  "Incendiary Arrows": {
+    "id": 428,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Incendiary_Arrows"
+  },
+  "Kindle Arrows": {
+    "id": 433,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Kindle_Arrows"
+  },
+  "Melandru's Arrows": {
+    "id": 429,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Melandru%27s_Arrows"
+  },
+  "Melandru's Resilience": {
+    "id": 451,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Melandru%27s_Resilience"
+  },
+  "Muddy Terrain": {
+    "id": 477,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Muddy_Terrain"
+  },
+  "Natural Stride": {
+    "id": 1727,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Natural_Stride"
+  },
+  "Nature's Renewal": {
+    "id": 476,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Nature%27s_Renewal"
+  },
+  "Pestilence": {
+    "id": 870,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pestilence"
+  },
+  "Piercing Trap": {
+    "id": 2140,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Piercing_Trap"
+  },
+  "Poison Arrow": {
+    "id": 404,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Poison_Arrow"
+  },
+  "Poison Tip Signet": {
+    "id": 2199,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Poison_Tip_Signet"
+  },
+  "Quickening Zephyr": {
+    "id": 475,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Quickening_Zephyr"
+  },
+  "Quicksand": {
+    "id": 1473,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Quicksand"
+  },
+  "Roaring Winds": {
+    "id": 1725,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Roaring_Winds"
+  },
+  "Scavenger's Focus": {
+    "id": 1471,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Scavenger%27s_Focus"
+  },
+  "Serpent's Quickness": {
+    "id": 456,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Serpent%27s_Quickness"
+  },
+  "Smoke Trap": {
+    "id": 1729,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Smoke_Trap"
+  },
+  "Snare": {
+    "id": 854,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Snare"
+  },
+  "Spike Trap": {
+    "id": 461,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spike_Trap"
+  },
+  "Storm Chaser": {
+    "id": 455,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Storm_Chaser"
+  },
+  "Tranquility": {
+    "id": 1213,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Tranquility"
+  },
+  "Tripwire": {
+    "id": 1476,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Tripwire"
+  },
+  "Troll Unguent": {
+    "id": 446,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Troll_Unguent"
+  },
+  "Winnowing": {
+    "id": 463,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Winnowing"
+  },
+  "Winter": {
+    "id": 462,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Winter"
+  },
+  "Antidote Signet": {
+    "id": 427,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Antidote_Signet"
+  },
+  "Called Shot": {
+    "id": 403,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Called_Shot"
+  },
+  "Dual Shot": {
+    "id": 396,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dual_Shot"
+  },
+  "Forked Arrow": {
+    "id": 1722,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Forked_Arrow"
+  },
+  "Magebane Shot": {
+    "id": 1726,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Magebane_Shot"
+  },
+  "Quick Shot": {
+    "id": 397,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Quick_Shot"
+  },
+  "Storm's Embrace": {
+    "id": 1474,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Storm%27s_Embrace"
+  },
+  "Blessed Aura": {
+    "id": 256,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blessed_Aura"
+  },
+  "Blessed Light": {
+    "id": 941,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blessed_Light"
+  },
+  "Blessed Signet": {
+    "id": 297,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blessed_Signet"
+  },
+  "Boon Signet": {
+    "id": 847,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Boon_Signet"
+  },
+  "Contemplation of Purity": {
+    "id": 300,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Contemplation_of_Purity"
+  },
+  "Deny Hexes": {
+    "id": 991,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Deny_Hexes"
+  },
+  "Divine Boon": {
+    "id": 284,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Divine_Boon"
+  },
+  "Divine Healing": {
+    "id": 279,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Divine_Healing"
+  },
+  "Divine Intervention": {
+    "id": 246,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Divine_Intervention"
+  },
+  "Divine Spirit": {
+    "id": 310,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Divine_Spirit"
+  },
+  "Healer's Boon": {
+    "id": 1393,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Healer%27s_Boon"
+  },
+  "Heaven's Delight": {
+    "id": 1117,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Heaven%27s_Delight"
+  },
+  "Holy Haste": {
+    "id": 1685,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Holy_Haste"
+  },
+  "Peace and Harmony": {
+    "id": 266,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Peace_and_Harmony"
+  },
+  "Release Enchantments": {
+    "id": 960,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Release_Enchantments"
+  },
+  "Scribe's Insight": {
+    "id": 1684,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Scribe%27s_Insight"
+  },
+  "Signet of Devotion": {
+    "id": 293,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Devotion"
+  },
+  "Smiter's Boon": {
+    "id": 2005,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Smiter%27s_Boon"
+  },
+  "Spell Breaker": {
+    "id": 273,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spell_Breaker"
+  },
+  "Spell Shield": {
+    "id": 957,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spell_Shield"
+  },
+  "Unyielding Aura": {
+    "id": 268,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Unyielding_Aura"
+  },
+  "Watchful Healing": {
+    "id": 1392,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Watchful_Healing"
+  },
+  "Watchful Spirit": {
+    "id": 255,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Watchful_Spirit"
+  },
+  "Withdraw Hexes": {
+    "id": 942,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Withdraw_Hexes"
+  },
+  "Cure Hex": {
+    "id": 2003,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Cure_Hex"
+  },
+  "Dwayna's Kiss": {
+    "id": 283,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dwayna%27s_Kiss"
+  },
+  "Dwayna's Sorrow": {
+    "id": 838,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dwayna%27s_Sorrow"
+  },
+  "Ethereal Light": {
+    "id": 959,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ethereal_Light"
+  },
+  "Gift of Health": {
+    "id": 1121,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Gift_of_Health"
+  },
+  "Glimmer of Light": {
+    "id": 1686,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glimmer_of_Light"
+  },
+  "Heal Area": {
+    "id": 280,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Heal_Area"
+  },
+  "Heal Other": {
+    "id": 286,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Heal_Other"
+  },
+  "Heal Party": {
+    "id": 287,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Heal_Party"
+  },
+  "Healer's Covenant": {
+    "id": 1394,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Healer%27s_Covenant"
+  },
+  "Healing Breeze": {
+    "id": 288,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Healing_Breeze"
+  },
+  "Healing Burst": {
+    "id": 1118,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Healing_Burst"
+  },
+  "Healing Hands": {
+    "id": 285,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Healing_Hands"
+  },
+  "Healing Light": {
+    "id": 867,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Healing_Light"
+  },
+  "Healing Ribbon": {
+    "id": 2062,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Healing_Ribbon"
+  },
+  "Healing Ring": {
+    "id": 1262,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Healing_Ring"
+  },
+  "Healing Seed": {
+    "id": 274,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Healing_Seed"
+  },
+  "Healing Touch": {
+    "id": 313,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Healing_Touch"
+  },
+  "Healing Whisper": {
+    "id": 958,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Healing_Whisper"
+  },
+  "Infuse Health": {
+    "id": 292,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Infuse_Health"
+  },
+  "Jamei's Gaze": {
+    "id": 1120,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Jamei%27s_Gaze"
+  },
+  "Karei's Healing Circle": {
+    "id": 1119,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Karei%27s_Healing_Circle"
+  },
+  "Light of Deliverance": {
+    "id": 1397,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Light_of_Deliverance"
+  },
+  "Live Vicariously": {
+    "id": 291,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Live_Vicariously"
+  },
+  "Mending": {
+    "id": 290,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mending"
+  },
+  "Orison of Healing": {
+    "id": 281,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Orison_of_Healing"
+  },
+  "Patient Spirit": {
+    "id": 2061,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Patient_Spirit"
+  },
+  "Renew Life": {
+    "id": 1263,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Renew_Life"
+  },
+  "Restful Breeze": {
+    "id": 886,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Restful_Breeze"
+  },
+  "Restore Life": {
+    "id": 314,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Restore_Life"
+  },
+  "Resurrection Chant": {
+    "id": 1128,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Resurrection_Chant"
+  },
+  "Signet of Rejuvenation": {
+    "id": 887,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Rejuvenation"
+  },
+  "Spotless Mind": {
+    "id": 2064,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spotless_Mind"
+  },
+  "Spotless Soul": {
+    "id": 2065,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spotless_Soul"
+  },
+  "Supportive Spirit": {
+    "id": 1391,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Supportive_Spirit"
+  },
+  "Vigorous Spirit": {
+    "id": 254,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vigorous_Spirit"
+  },
+  "Word of Healing": {
+    "id": 282,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Word_of_Healing"
+  },
+  "Words of Comfort": {
+    "id": 1396,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Words_of_Comfort"
+  },
+  "Aegis": {
+    "id": 257,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Aegis"
+  },
+  "Air of Enchantment": {
+    "id": 1115,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Air_of_Enchantment"
+  },
+  "Amity": {
+    "id": 265,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Amity"
+  },
+  "Aura of Faith": {
+    "id": 260,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Aura_of_Faith"
+  },
+  "Aura of Stability": {
+    "id": 2063,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Aura_of_Stability"
+  },
+  "Convert Hexes": {
+    "id": 303,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Convert_Hexes"
+  },
+  "Dismiss Condition": {
+    "id": 1691,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dismiss_Condition"
+  },
+  "Divert Hexes": {
+    "id": 1692,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Divert_Hexes"
+  },
+  "Draw Conditions": {
+    "id": 311,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Draw_Conditions"
+  },
+  "Extinguish": {
+    "id": 943,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Extinguish"
+  },
+  "Guardian": {
+    "id": 258,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Guardian"
+  },
+  "Life Attunement": {
+    "id": 244,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Life_Attunement"
+  },
+  "Life Barrier": {
+    "id": 270,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Life_Barrier"
+  },
+  "Life Bond": {
+    "id": 241,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Life_Bond"
+  },
+  "Life Sheath": {
+    "id": 1123,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Life_Sheath"
+  },
+  "Mark of Protection": {
+    "id": 269,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mark_of_Protection"
+  },
+  "Mend Ailment": {
+    "id": 277,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mend_Ailment"
+  },
+  "Mend Condition": {
+    "id": 275,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mend_Condition"
+  },
+  "Mending Touch": {
+    "id": 1401,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mending_Touch"
+  },
+  "Pacifism": {
+    "id": 264,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pacifism"
+  },
+  "Pensive Guardian": {
+    "id": 1683,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pensive_Guardian"
+  },
+  "Protective Bond": {
+    "id": 263,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Protective_Bond"
+  },
+  "Protective Spirit": {
+    "id": 245,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Protective_Spirit"
+  },
+  "Purifying Veil": {
+    "id": 2007,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Purifying_Veil"
+  },
+  "Rebirth": {
+    "id": 306,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rebirth"
+  },
+  "Restore Condition": {
+    "id": 276,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Restore_Condition"
+  },
+  "Reversal of Fortune": {
+    "id": 307,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Reversal_of_Fortune"
+  },
+  "Reverse Hex": {
+    "id": 848,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Reverse_Hex"
+  },
+  "Shield Guardian": {
+    "id": 885,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shield_Guardian"
+  },
+  "Shield of Absorption": {
+    "id": 1399,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shield_of_Absorption"
+  },
+  "Shield of Deflection": {
+    "id": 259,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shield_of_Deflection"
+  },
+  "Shield of Regeneration": {
+    "id": 261,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shield_of_Regeneration"
+  },
+  "Shielding Hands": {
+    "id": 299,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shielding_Hands"
+  },
+  "Spirit Bond": {
+    "id": 1114,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spirit_Bond"
+  },
+  "Vital Blessing": {
+    "id": 289,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vital_Blessing"
+  },
+  "Zealous Benediction": {
+    "id": 1687,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Zealous_Benediction"
+  },
+  "Balthazar's Aura": {
+    "id": 272,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Balthazar%27s_Aura"
+  },
+  "Balthazar's Pendulum": {
+    "id": 1395,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Balthazar%27s_Pendulum"
+  },
+  "Balthazar's Spirit": {
+    "id": 242,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Balthazar%27s_Spirit"
+  },
+  "Bane Signet": {
+    "id": 296,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Bane_Signet"
+  },
+  "Banish": {
+    "id": 252,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Banish"
+  },
+  "Castigation Signet": {
+    "id": 2006,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Castigation_Signet"
+  },
+  "Defender's Zeal": {
+    "id": 1688,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Defender%27s_Zeal"
+  },
+  "Holy Strike": {
+    "id": 312,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Holy_Strike"
+  },
+  "Holy Wrath": {
+    "id": 249,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Holy_Wrath"
+  },
+  "Judge's Insight": {
+    "id": 267,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Judge%27s_Insight"
+  },
+  "Judge's Intervention": {
+    "id": 1390,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Judge%27s_Intervention"
+  },
+  "Kirin's Wrath": {
+    "id": 1113,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Kirin%27s_Wrath"
+  },
+  "Ray of Judgment": {
+    "id": 830,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ray_of_Judgment"
+  },
+  "Retribution": {
+    "id": 248,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Retribution"
+  },
+  "Reversal of Damage": {
+    "id": 1400,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Reversal_of_Damage"
+  },
+  "Scourge Enchantment": {
+    "id": 1398,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Scourge_Enchantment"
+  },
+  "Scourge Healing": {
+    "id": 251,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Scourge_Healing"
+  },
+  "Scourge Sacrifice": {
+    "id": 253,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Scourge_Sacrifice"
+  },
+  "Shield of Judgment": {
+    "id": 262,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shield_of_Judgment"
+  },
+  "Signet of Judgment": {
+    "id": 294,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Judgment"
+  },
+  "Signet of Mystic Wrath": {
+    "id": 1689,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Mystic_Wrath"
+  },
+  "Signet of Rage": {
+    "id": 1269,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Rage"
+  },
+  "Smite": {
+    "id": 240,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Smite"
+  },
+  "Smite Condition": {
+    "id": 2004,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Smite_Condition"
+  },
+  "Smite Hex": {
+    "id": 302,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Smite_Hex"
+  },
+  "Spear of Light": {
+    "id": 1130,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spear_of_Light"
+  },
+  "Stonesoul Strike": {
+    "id": 1131,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Stonesoul_Strike"
+  },
+  "Strength of Honor": {
+    "id": 243,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Strength_of_Honor"
+  },
+  "Symbol of Wrath": {
+    "id": 247,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Symbol_of_Wrath"
+  },
+  "Word of Censure": {
+    "id": 1129,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Word_of_Censure"
+  },
+  "Zealot's Fire": {
+    "id": 271,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Zealot%27s_Fire"
+  },
+  "Castigation Signet (Saul D'Alessio)": {
+    "id": 2683,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Castigation_Signet_(Saul_D%27Alessio)"
+  },
+  "Empathic Removal": {
+    "id": 1126,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Empathic_Removal"
+  },
+  "Essence Bond": {
+    "id": 250,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Essence_Bond"
+  },
+  "Holy Veil": {
+    "id": 309,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Holy_Veil"
+  },
+  "Light of Dwayna": {
+    "id": 304,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Light_of_Dwayna"
+  },
+  "Martyr": {
+    "id": 298,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Martyr"
+  },
+  "Purge Conditions": {
+    "id": 278,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Purge_Conditions"
+  },
+  "Purge Signet": {
+    "id": 295,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Purge_Signet"
+  },
+  "Remove Hex": {
+    "id": 301,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Remove_Hex"
+  },
+  "Resurrect": {
+    "id": 305,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Resurrect"
+  },
+  "Signet of Removal": {
+    "id": 1690,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Removal"
+  },
+  "Succor": {
+    "id": 308,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Succor"
+  },
+  "Vengeance": {
+    "id": 315,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vengeance"
+  },
+  "Awaken the Blood": {
+    "id": 111,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Awaken_the_Blood"
+  },
+  "Barbed Signet": {
+    "id": 131,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Barbed_Signet"
+  },
+  "Blood Bond": {
+    "id": 835,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blood_Bond"
+  },
+  "Blood Drinker": {
+    "id": 1076,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blood_Drinker"
+  },
+  "Blood is Power": {
+    "id": 119,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blood_is_Power"
+  },
+  "Blood of the Aggressor": {
+    "id": 902,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blood_of_the_Aggressor"
+  },
+  "Blood Renewal": {
+    "id": 115,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blood_Renewal"
+  },
+  "Blood Ritual": {
+    "id": 157,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blood_Ritual"
+  },
+  "Cultist's Fervor": {
+    "id": 806,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Cultist%27s_Fervor"
+  },
+  "Dark Bond": {
+    "id": 138,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dark_Bond"
+  },
+  "Dark Fury": {
+    "id": 147,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dark_Fury"
+  },
+  "Dark Pact": {
+    "id": 133,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dark_Pact"
+  },
+  "Demonic Flesh": {
+    "id": 130,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Demonic_Flesh"
+  },
+  "Jaundiced Gaze": {
+    "id": 763,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Jaundiced_Gaze"
+  },
+  "Life Siphon": {
+    "id": 109,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Life_Siphon"
+  },
+  "Life Transfer": {
+    "id": 126,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Life_Transfer"
+  },
+  "Lifebane Strike": {
+    "id": 1067,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lifebane_Strike"
+  },
+  "Mark of Fury": {
+    "id": 1360,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mark_of_Fury"
+  },
+  "Mark of Subversion": {
+    "id": 127,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mark_of_Subversion"
+  },
+  "Offering of Blood": {
+    "id": 146,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Offering_of_Blood"
+  },
+  "Oppressive Gaze": {
+    "id": 864,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Oppressive_Gaze"
+  },
+  "Order of Pain": {
+    "id": 134,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Order_of_Pain"
+  },
+  "Order of the Vampire": {
+    "id": 148,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Order_of_the_Vampire"
+  },
+  "Ravenous Gaze": {
+    "id": 862,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ravenous_Gaze"
+  },
+  "Shadow Strike": {
+    "id": 102,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shadow_Strike"
+  },
+  "Signet of Agony": {
+    "id": 145,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Agony"
+  },
+  "Signet of Suffering": {
+    "id": 1364,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Suffering"
+  },
+  "Soul Leech": {
+    "id": 128,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Soul_Leech"
+  },
+  "Spoil Victor": {
+    "id": 1066,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spoil_Victor"
+  },
+  "Strip Enchantment": {
+    "id": 143,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Strip_Enchantment"
+  },
+  "Touch of Agony": {
+    "id": 158,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Touch_of_Agony"
+  },
+  "Unholy Feast": {
+    "id": 110,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Unholy_Feast"
+  },
+  "Vampiric Bite": {
+    "id": 1077,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vampiric_Bite"
+  },
+  "Vampiric Gaze": {
+    "id": 153,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vampiric_Gaze"
+  },
+  "Vampiric Spirit": {
+    "id": 819,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vampiric_Spirit"
+  },
+  "Vampiric Swarm": {
+    "id": 1075,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vampiric_Swarm"
+  },
+  "Vampiric Touch": {
+    "id": 156,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vampiric_Touch"
+  },
+  "Wallow's Bite": {
+    "id": 1078,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wallow%27s_Bite"
+  },
+  "Well of Blood": {
+    "id": 92,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Well_of_Blood"
+  },
+  "Well of Power": {
+    "id": 91,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Well_of_Power"
+  },
+  "Atrophy": {
+    "id": 2237,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Atrophy"
+  },
+  "Barbs": {
+    "id": 101,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Barbs"
+  },
+  "Cacophony": {
+    "id": 1998,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Cacophony"
+  },
+  "Chilblains": {
+    "id": 144,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Chilblains"
+  },
+  "Corrupt Enchantment": {
+    "id": 1362,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Corrupt_Enchantment"
+  },
+  "Defile Defenses": {
+    "id": 2188,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Defile_Defenses"
+  },
+  "Defile Enchantments": {
+    "id": 1070,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Defile_Enchantments"
+  },
+  "Defile Flesh": {
+    "id": 129,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Defile_Flesh"
+  },
+  "Depravity": {
+    "id": 820,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Depravity"
+  },
+  "Desecrate Enchantments": {
+    "id": 112,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Desecrate_Enchantments"
+  },
+  "Enfeeble": {
+    "id": 117,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Enfeeble"
+  },
+  "Enfeebling Blood": {
+    "id": 118,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Enfeebling_Blood"
+  },
+  "Enfeebling Touch": {
+    "id": 1079,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Enfeebling_Touch"
+  },
+  "Envenom Enchantments": {
+    "id": 936,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Envenom_Enchantments"
+  },
+  "Faintheartedness": {
+    "id": 135,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Faintheartedness"
+  },
+  "Feast of Corruption": {
+    "id": 151,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Feast_of_Corruption"
+  },
+  "Insidious Parasite": {
+    "id": 123,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Insidious_Parasite"
+  },
+  "Lingering Curse": {
+    "id": 142,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lingering_Curse"
+  },
+  "Malaise": {
+    "id": 140,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Malaise"
+  },
+  "Mark of Pain": {
+    "id": 150,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mark_of_Pain"
+  },
+  "Meekness": {
+    "id": 1260,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Meekness"
+  },
+  "Order of Apostasy": {
+    "id": 863,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Order_of_Apostasy"
+  },
+  "Pain of Disenchantment": {
+    "id": 1359,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pain_of_Disenchantment"
+  },
+  "Parasitic Bond": {
+    "id": 99,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Parasitic_Bond"
+  },
+  "Plague Sending": {
+    "id": 149,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Plague_Sending"
+  },
+  "Plague Signet": {
+    "id": 132,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Plague_Signet"
+  },
+  "Plague Touch": {
+    "id": 154,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Plague_Touch"
+  },
+  "Poisoned Heart": {
+    "id": 840,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Poisoned_Heart"
+  },
+  "Price of Failure": {
+    "id": 103,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Price_of_Failure"
+  },
+  "Reckless Haste": {
+    "id": 834,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Reckless_Haste"
+  },
+  "Rend Enchantments": {
+    "id": 141,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rend_Enchantments"
+  },
+  "Rigor Mortis": {
+    "id": 137,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rigor_Mortis"
+  },
+  "Rip Enchantment": {
+    "id": 955,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rip_Enchantment"
+  },
+  "Shadow of Fear": {
+    "id": 136,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shadow_of_Fear"
+  },
+  "Shivers of Dread": {
+    "id": 1071,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shivers_of_Dread"
+  },
+  "Soul Barbs": {
+    "id": 100,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Soul_Barbs"
+  },
+  "Soul Bind": {
+    "id": 901,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Soul_Bind"
+  },
+  "Spinal Shivers": {
+    "id": 124,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spinal_Shivers"
+  },
+  "Spiteful Spirit": {
+    "id": 121,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spiteful_Spirit"
+  },
+  "Suffering": {
+    "id": 108,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Suffering"
+  },
+  "Ulcerous Lungs": {
+    "id": 1358,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ulcerous_Lungs"
+  },
+  "Vocal Minority": {
+    "id": 883,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vocal_Minority"
+  },
+  "Weaken Armor": {
+    "id": 159,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Weaken_Armor"
+  },
+  "Weaken Knees": {
+    "id": 822,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Weaken_Knees"
+  },
+  "Well of Darkness": {
+    "id": 1366,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Well_of_Darkness"
+  },
+  "Well of Ruin": {
+    "id": 2236,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Well_of_Ruin"
+  },
+  "Well of Silence": {
+    "id": 1660,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Well_of_Silence"
+  },
+  "Well of Weariness": {
+    "id": 818,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Well_of_Weariness"
+  },
+  "Wither": {
+    "id": 125,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wither"
+  },
+  "Animate Bone Fiend": {
+    "id": 84,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Animate_Bone_Fiend"
+  },
+  "Animate Bone Horror": {
+    "id": 83,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Animate_Bone_Horror"
+  },
+  "Animate Bone Minions": {
+    "id": 85,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Animate_Bone_Minions"
+  },
+  "Animate Flesh Golem": {
+    "id": 832,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Animate_Flesh_Golem"
+  },
+  "Animate Shambling Horror": {
+    "id": 1351,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Animate_Shambling_Horror"
+  },
+  "Animate Vampiric Horror": {
+    "id": 805,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Animate_Vampiric_Horror"
+  },
+  "Aura of the Lich": {
+    "id": 114,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Aura_of_the_Lich"
+  },
+  "Bitter Chill": {
+    "id": 1068,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Bitter_Chill"
+  },
+  "Blood of the Master": {
+    "id": 120,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blood_of_the_Master"
+  },
+  "Consume Corpse": {
+    "id": 98,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Consume_Corpse"
+  },
+  "Contagion": {
+    "id": 1356,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Contagion"
+  },
+  "Dark Aura": {
+    "id": 116,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dark_Aura"
+  },
+  "Death Nova": {
+    "id": 104,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Death_Nova"
+  },
+  "Deathly Chill": {
+    "id": 89,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Deathly_Chill"
+  },
+  "Deathly Swarm": {
+    "id": 105,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Deathly_Swarm"
+  },
+  "Discord": {
+    "id": 817,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Discord"
+  },
+  "Feast for the Dead": {
+    "id": 1354,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Feast_for_the_Dead"
+  },
+  "Fetid Ground": {
+    "id": 841,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Fetid_Ground"
+  },
+  "Infuse Condition": {
+    "id": 139,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Infuse_Condition"
+  },
+  "Jagged Bones": {
+    "id": 1355,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Jagged_Bones"
+  },
+  "Malign Intervention": {
+    "id": 122,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Malign_Intervention"
+  },
+  "Necrotic Traversal": {
+    "id": 97,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Necrotic_Traversal"
+  },
+  "Order of Undeath": {
+    "id": 1352,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Order_of_Undeath"
+  },
+  "Putrid Bile": {
+    "id": 2058,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Putrid_Bile"
+  },
+  "Putrid Explosion": {
+    "id": 95,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Putrid_Explosion"
+  },
+  "Putrid Flesh": {
+    "id": 1353,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Putrid_Flesh"
+  },
+  "Rising Bile": {
+    "id": 935,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rising_Bile"
+  },
+  "Rotting Flesh": {
+    "id": 106,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rotting_Flesh"
+  },
+  "Soul Feast": {
+    "id": 96,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Soul_Feast"
+  },
+  "Tainted Flesh": {
+    "id": 113,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Tainted_Flesh"
+  },
+  "Taste of Death": {
+    "id": 152,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Taste_of_Death"
+  },
+  "Taste of Pain": {
+    "id": 1069,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Taste_of_Pain"
+  },
+  "Toxic Chill": {
+    "id": 1659,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Toxic_Chill"
+  },
+  "Verata's Aura": {
+    "id": 88,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Verata%27s_Aura"
+  },
+  "Verata's Gaze": {
+    "id": 87,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Verata%27s_Gaze"
+  },
+  "Verata's Sacrifice": {
+    "id": 90,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Verata%27s_Sacrifice"
+  },
+  "Vile Miasma": {
+    "id": 828,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vile_Miasma"
+  },
+  "Vile Touch": {
+    "id": 155,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vile_Touch"
+  },
+  "Virulence": {
+    "id": 107,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Virulence"
+  },
+  "Well of Suffering": {
+    "id": 93,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Well_of_Suffering"
+  },
+  "Well of the Profane": {
+    "id": 94,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Well_of_the_Profane"
+  },
+  "Withering Aura": {
+    "id": 1997,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Withering_Aura"
+  },
+  "Angorodon's Gaze": {
+    "id": 2189,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Angorodon%27s_Gaze"
+  },
+  "Foul Feast": {
+    "id": 2057,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Foul_Feast"
+  },
+  "Hexer's Vigor": {
+    "id": 2138,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Hexer%27s_Vigor"
+  },
+  "Icy Veins": {
+    "id": 821,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Icy_Veins"
+  },
+  "Masochism": {
+    "id": 2139,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Masochism"
+  },
+  "Reaper's Mark": {
+    "id": 808,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Reaper%27s_Mark"
+  },
+  "Signet of Lost Souls": {
+    "id": 1365,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Lost_Souls"
+  },
+  "Signet of Sorrow": {
+    "id": 1363,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Sorrow"
+  },
+  "Wail of Doom": {
+    "id": 764,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wail_of_Doom"
+  },
+  "Gaze of Contempt": {
+    "id": 766,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Gaze_of_Contempt"
+  },
+  "Grenth's Balance": {
+    "id": 86,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Grenth%27s_Balance"
+  },
+  "Aneurysm": {
+    "id": 2055,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Aneurysm"
+  },
+  "Arcane Larceny": {
+    "id": 1062,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Arcane_Larceny"
+  },
+  "Arcane Thievery": {
+    "id": 81,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Arcane_Thievery"
+  },
+  "Backfire": {
+    "id": 28,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Backfire"
+  },
+  "Blackout": {
+    "id": 29,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blackout"
+  },
+  "Chaos Storm": {
+    "id": 77,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Chaos_Storm"
+  },
+  "Complicate": {
+    "id": 932,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Complicate"
+  },
+  "Cry of Frustration": {
+    "id": 57,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Cry_of_Frustration"
+  },
+  "Diversion": {
+    "id": 30,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Diversion"
+  },
+  "Empathy": {
+    "id": 26,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Empathy"
+  },
+  "Enchanter's Conundrum": {
+    "id": 1345,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Enchanter%27s_Conundrum"
+  },
+  "Energy Burn": {
+    "id": 42,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Energy_Burn"
+  },
+  "Energy Surge": {
+    "id": 39,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Energy_Surge"
+  },
+  "Guilt": {
+    "id": 46,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Guilt"
+  },
+  "Hex Breaker": {
+    "id": 10,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Hex_Breaker"
+  },
+  "Hex Eater Vortex": {
+    "id": 1348,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Hex_Eater_Vortex"
+  },
+  "Ignorance": {
+    "id": 35,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ignorance"
+  },
+  "Mind Wrack": {
+    "id": 49,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mind_Wrack"
+  },
+  "Mistrust": {
+    "id": 979,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mistrust"
+  },
+  "Overload": {
+    "id": 898,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Overload"
+  },
+  "Panic": {
+    "id": 52,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Panic"
+  },
+  "Power Block": {
+    "id": 5,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Power_Block"
+  },
+  "Power Flux": {
+    "id": 953,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Power_Flux"
+  },
+  "Power Leak": {
+    "id": 24,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Power_Leak"
+  },
+  "Power Lock": {
+    "id": 1994,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Power_Lock"
+  },
+  "Power Spike": {
+    "id": 23,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Power_Spike"
+  },
+  "Price of Pride": {
+    "id": 1655,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Price_of_Pride"
+  },
+  "Psychic Distraction": {
+    "id": 1053,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Psychic_Distraction"
+  },
+  "Shame": {
+    "id": 51,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shame"
+  },
+  "Shatter Delusions": {
+    "id": 27,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shatter_Delusions"
+  },
+  "Shatter Enchantment": {
+    "id": 69,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shatter_Enchantment"
+  },
+  "Shatter Hex": {
+    "id": 67,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shatter_Hex"
+  },
+  "Signet of Disruption": {
+    "id": 860,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Disruption"
+  },
+  "Signet of Distraction": {
+    "id": 1992,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Distraction"
+  },
+  "Signet of Weariness": {
+    "id": 59,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Weariness"
+  },
+  "Simple Thievery": {
+    "id": 1350,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Simple_Thievery"
+  },
+  "Spiritual Pain": {
+    "id": 1336,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spiritual_Pain"
+  },
+  "Unnatural Signet": {
+    "id": 934,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Unnatural_Signet"
+  },
+  "Visions of Regret": {
+    "id": 878,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Visions_of_Regret"
+  },
+  "Wastrel's Demise": {
+    "id": 1335,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wastrel%27s_Demise"
+  },
+  "Wastrel's Worry": {
+    "id": 50,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wastrel%27s_Worry"
+  },
+  "Unnatural Signet (Saul D'Alessio)": {
+    "id": 2684,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Unnatural_Signet_(Saul_D%27Alessio)"
+  },
+  "Arcane Languor": {
+    "id": 804,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Arcane_Languor"
+  },
+  "Keystone Signet": {
+    "id": 63,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Keystone_Signet"
+  },
+  "Mantra of Recovery": {
+    "id": 13,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mantra_of_Recovery"
+  },
+  "Persistence of Memory": {
+    "id": 1338,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Persistence_of_Memory"
+  },
+  "Power Return": {
+    "id": 931,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Power_Return"
+  },
+  "Psychic Instability": {
+    "id": 1057,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Psychic_Instability"
+  },
+  "Stolen Speed": {
+    "id": 880,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Stolen_Speed"
+  },
+  "Symbolic Celerity": {
+    "id": 1340,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Symbolic_Celerity"
+  },
+  "Symbolic Posture": {
+    "id": 1658,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Symbolic_Posture"
+  },
+  "Symbols of Inspiration": {
+    "id": 1339,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Symbols_of_Inspiration"
+  },
+  "Accumulated Pain": {
+    "id": 1052,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Accumulated_Pain"
+  },
+  "Air of Disenchantment": {
+    "id": 1656,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Air_of_Disenchantment"
+  },
+  "Ancestor's Visage": {
+    "id": 1054,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ancestor%27s_Visage"
+  },
+  "Arcane Conundrum": {
+    "id": 36,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Arcane_Conundrum"
+  },
+  "Calculated Risk": {
+    "id": 2053,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Calculated_Risk"
+  },
+  "Clumsiness": {
+    "id": 43,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Clumsiness"
+  },
+  "Confusing Images": {
+    "id": 2137,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Confusing_Images"
+  },
+  "Conjure Nightmare": {
+    "id": 859,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Conjure_Nightmare"
+  },
+  "Conjure Phantasm": {
+    "id": 31,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Conjure_Phantasm"
+  },
+  "Crippling Anguish": {
+    "id": 54,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Crippling_Anguish"
+  },
+  "Distortion": {
+    "id": 11,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Distortion"
+  },
+  "Ethereal Burden": {
+    "id": 45,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ethereal_Burden"
+  },
+  "Fevered Dreams": {
+    "id": 55,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Fevered_Dreams"
+  },
+  "Fragility": {
+    "id": 19,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Fragility"
+  },
+  "Frustration": {
+    "id": 1341,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Frustration"
+  },
+  "Illusion of Haste": {
+    "id": 37,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Illusion_of_Haste"
+  },
+  "Illusion of Pain": {
+    "id": 879,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Illusion_of_Pain"
+  },
+  "Illusion of Weakness": {
+    "id": 32,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Illusion_of_Weakness"
+  },
+  "Illusionary Weaponry": {
+    "id": 33,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Illusionary_Weaponry"
+  },
+  "Images of Remorse": {
+    "id": 899,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Images_of_Remorse"
+  },
+  "Imagined Burden": {
+    "id": 76,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Imagined_Burden"
+  },
+  "Ineptitude": {
+    "id": 47,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ineptitude"
+  },
+  "Kitah's Burden": {
+    "id": 1056,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Kitah%27s_Burden"
+  },
+  "Migraine": {
+    "id": 53,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Migraine"
+  },
+  "Phantom Pain": {
+    "id": 44,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Phantom_Pain"
+  },
+  "Recurring Insecurity": {
+    "id": 1055,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Recurring_Insecurity"
+  },
+  "Shared Burden": {
+    "id": 900,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shared_Burden"
+  },
+  "Shrinking Armor": {
+    "id": 2054,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shrinking_Armor"
+  },
+  "Signet of Clumsiness": {
+    "id": 1657,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Clumsiness"
+  },
+  "Signet of Illusions": {
+    "id": 1346,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Illusions"
+  },
+  "Soothing Images": {
+    "id": 56,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Soothing_Images"
+  },
+  "Sum of All Fears": {
+    "id": 1996,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sum_of_All_Fears"
+  },
+  "Sympathetic Visage": {
+    "id": 34,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sympathetic_Visage"
+  },
+  "Wandering Eye": {
+    "id": 2056,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wandering_Eye"
+  },
+  "Auspicious Incantation": {
+    "id": 930,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Auspicious_Incantation"
+  },
+  "Channeling": {
+    "id": 38,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Channeling"
+  },
+  "Discharge Enchantment": {
+    "id": 1347,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Discharge_Enchantment"
+  },
+  "Drain Delusions": {
+    "id": 1337,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Drain_Delusions"
+  },
+  "Drain Enchantment": {
+    "id": 68,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Drain_Enchantment"
+  },
+  "Elemental Resistance": {
+    "id": 72,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Elemental_Resistance"
+  },
+  "Energy Drain": {
+    "id": 79,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Energy_Drain"
+  },
+  "Energy Tap": {
+    "id": 80,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Energy_Tap"
+  },
+  "Ether Feast": {
+    "id": 40,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ether_Feast"
+  },
+  "Ether Lord": {
+    "id": 41,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ether_Lord"
+  },
+  "Ether Phantom": {
+    "id": 1343,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ether_Phantom"
+  },
+  "Ether Signet": {
+    "id": 881,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ether_Signet"
+  },
+  "Extend Conditions": {
+    "id": 1333,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Extend_Conditions"
+  },
+  "Feedback": {
+    "id": 1061,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Feedback"
+  },
+  "Hex Eater Signet": {
+    "id": 1059,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Hex_Eater_Signet"
+  },
+  "Inspired Enchantment": {
+    "id": 21,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Inspired_Enchantment"
+  },
+  "Inspired Hex": {
+    "id": 22,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Inspired_Hex"
+  },
+  "Leech Signet": {
+    "id": 61,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Leech_Signet"
+  },
+  "Lyssa's Aura": {
+    "id": 813,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lyssa%27s_Aura"
+  },
+  "Mantra of Concentration": {
+    "id": 16,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mantra_of_Concentration"
+  },
+  "Mantra of Earth": {
+    "id": 6,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mantra_of_Earth"
+  },
+  "Mantra of Flame": {
+    "id": 7,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mantra_of_Flame"
+  },
+  "Mantra of Frost": {
+    "id": 8,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mantra_of_Frost"
+  },
+  "Mantra of Inscriptions": {
+    "id": 15,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mantra_of_Inscriptions"
+  },
+  "Mantra of Lightning": {
+    "id": 9,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mantra_of_Lightning"
+  },
+  "Mantra of Persistence": {
+    "id": 14,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mantra_of_Persistence"
+  },
+  "Mantra of Recall": {
+    "id": 82,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mantra_of_Recall"
+  },
+  "Mantra of Resolve": {
+    "id": 17,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mantra_of_Resolve"
+  },
+  "Mantra of Signets": {
+    "id": 18,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mantra_of_Signets"
+  },
+  "Physical Resistance": {
+    "id": 73,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Physical_Resistance"
+  },
+  "Power Drain": {
+    "id": 25,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Power_Drain"
+  },
+  "Power Leech": {
+    "id": 803,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Power_Leech"
+  },
+  "Revealed Enchantment": {
+    "id": 1048,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Revealed_Enchantment"
+  },
+  "Revealed Hex": {
+    "id": 1049,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Revealed_Hex"
+  },
+  "Signet of Humility": {
+    "id": 62,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Humility"
+  },
+  "Signet of Recall": {
+    "id": 1993,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Recall"
+  },
+  "Spirit of Failure": {
+    "id": 48,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spirit_of_Failure"
+  },
+  "Spirit Shackles": {
+    "id": 66,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spirit_Shackles"
+  },
+  "Tease": {
+    "id": 1342,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Tease"
+  },
+  "Waste Not, Want Not": {
+    "id": 1995,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Waste_Not,_Want_Not"
+  },
+  "Arcane Echo": {
+    "id": 75,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Arcane_Echo"
+  },
+  "Arcane Mimicry": {
+    "id": 65,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Arcane_Mimicry"
+  },
+  "Echo": {
+    "id": 74,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Echo"
+  },
+  "Epidemic": {
+    "id": 78,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Epidemic"
+  },
+  "Expel Hexes": {
+    "id": 954,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Expel_Hexes"
+  },
+  "Hypochondria": {
+    "id": 1334,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Hypochondria"
+  },
+  "Lyssa's Balance": {
+    "id": 877,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lyssa%27s_Balance"
+  },
+  "Mirror of Disenchantment": {
+    "id": 1349,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mirror_of_Disenchantment"
+  },
+  "Shatter Storm": {
+    "id": 933,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shatter_Storm"
+  },
+  "Signet of Disenchantment": {
+    "id": 882,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Disenchantment"
+  },
+  "Signet of Midnight": {
+    "id": 58,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Midnight"
+  },
+  "Web of Disruption": {
+    "id": 1344,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Web_of_Disruption"
+  },
+  "Air Attunement": {
+    "id": 225,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Air_Attunement"
+  },
+  "Arc Lightning": {
+    "id": 842,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Arc_Lightning"
+  },
+  "Blinding Flash": {
+    "id": 220,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blinding_Flash"
+  },
+  "Blinding Surge": {
+    "id": 1367,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blinding_Surge"
+  },
+  "Chain Lightning": {
+    "id": 223,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Chain_Lightning"
+  },
+  "Chilling Winds": {
+    "id": 1368,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Chilling_Winds"
+  },
+  "Conjure Lightning": {
+    "id": 221,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Conjure_Lightning"
+  },
+  "Enervating Charge": {
+    "id": 224,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Enervating_Charge"
+  },
+  "Gale": {
+    "id": 162,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Gale"
+  },
+  "Glimmering Mark": {
+    "id": 227,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glimmering_Mark"
+  },
+  "Glyph of Swiftness": {
+    "id": 2002,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glyph_of_Swiftness"
+  },
+  "Gust": {
+    "id": 843,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Gust"
+  },
+  "Invoke Lightning": {
+    "id": 1664,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Invoke_Lightning"
+  },
+  "Lightning Bolt": {
+    "id": 1369,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lightning_Bolt"
+  },
+  "Lightning Hammer": {
+    "id": 865,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lightning_Hammer"
+  },
+  "Lightning Javelin": {
+    "id": 230,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lightning_Javelin"
+  },
+  "Lightning Orb": {
+    "id": 229,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lightning_Orb"
+  },
+  "Lightning Strike": {
+    "id": 222,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lightning_Strike"
+  },
+  "Lightning Surge": {
+    "id": 205,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lightning_Surge"
+  },
+  "Lightning Touch": {
+    "id": 232,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lightning_Touch"
+  },
+  "Mind Shock": {
+    "id": 226,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mind_Shock"
+  },
+  "Ride the Lightning": {
+    "id": 836,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ride_the_Lightning"
+  },
+  "Shell Shock": {
+    "id": 2059,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shell_Shock"
+  },
+  "Shock": {
+    "id": 231,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shock"
+  },
+  "Shock Arrow": {
+    "id": 1082,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shock_Arrow"
+  },
+  "Storm Djinn's Haste": {
+    "id": 1370,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Storm_Djinn%27s_Haste"
+  },
+  "Teinai's Wind": {
+    "id": 1081,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Teinai%27s_Wind"
+  },
+  "Thunderclap": {
+    "id": 228,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Thunderclap"
+  },
+  "Whirlwind": {
+    "id": 163,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Whirlwind"
+  },
+  "Windborne Speed": {
+    "id": 160,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Windborne_Speed"
+  },
+  "Aftershock": {
+    "id": 174,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Aftershock"
+  },
+  "Armor of Earth": {
+    "id": 165,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Armor_of_Earth"
+  },
+  "Ash Blast": {
+    "id": 1085,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ash_Blast"
+  },
+  "Churning Earth": {
+    "id": 844,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Churning_Earth"
+  },
+  "Crystal Wave": {
+    "id": 217,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Crystal_Wave"
+  },
+  "Dragon's Stomp": {
+    "id": 1086,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dragon%27s_Stomp"
+  },
+  "Earth Attunement": {
+    "id": 169,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Earth_Attunement"
+  },
+  "Earthen Shackles": {
+    "id": 2000,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Earthen_Shackles"
+  },
+  "Earthquake": {
+    "id": 170,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Earthquake"
+  },
+  "Ebon Hawk": {
+    "id": 1374,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ebon_Hawk"
+  },
+  "Eruption": {
+    "id": 167,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Eruption"
+  },
+  "Glowstone": {
+    "id": 1661,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glowstone"
+  },
+  "Grasping Earth": {
+    "id": 173,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Grasping_Earth"
+  },
+  "Iron Mist": {
+    "id": 216,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Iron_Mist"
+  },
+  "Kinetic Armor": {
+    "id": 166,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Kinetic_Armor"
+  },
+  "Magnetic Aura": {
+    "id": 168,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Magnetic_Aura"
+  },
+  "Magnetic Surge": {
+    "id": 2190,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Magnetic_Surge"
+  },
+  "Obsidian Flame": {
+    "id": 219,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Obsidian_Flame"
+  },
+  "Obsidian Flesh": {
+    "id": 218,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Obsidian_Flesh"
+  },
+  "Sandstorm": {
+    "id": 1372,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sandstorm"
+  },
+  "Shockwave": {
+    "id": 937,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shockwave"
+  },
+  "Sliver Armor": {
+    "id": 1084,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sliver_Armor"
+  },
+  "Stone Daggers": {
+    "id": 172,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Stone_Daggers"
+  },
+  "Stone Sheath": {
+    "id": 1373,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Stone_Sheath"
+  },
+  "Stone Striker": {
+    "id": 1371,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Stone_Striker"
+  },
+  "Stoneflesh Aura": {
+    "id": 1375,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Stoneflesh_Aura"
+  },
+  "Stoning": {
+    "id": 171,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Stoning"
+  },
+  "Teinai's Crystals": {
+    "id": 1099,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Teinai%27s_Crystals"
+  },
+  "Unsteady Ground": {
+    "id": 1083,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Unsteady_Ground"
+  },
+  "Ward Against Elements": {
+    "id": 175,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ward_Against_Elements"
+  },
+  "Ward Against Foes": {
+    "id": 177,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ward_Against_Foes"
+  },
+  "Ward Against Melee": {
+    "id": 176,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ward_Against_Melee"
+  },
+  "Ward of Stability": {
+    "id": 938,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ward_of_Stability"
+  },
+  "Ward of Weakness": {
+    "id": 2001,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ward_of_Weakness"
+  },
+  "Aura of Restoration": {
+    "id": 180,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Aura_of_Restoration"
+  },
+  "Elemental Attunement": {
+    "id": 164,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Elemental_Attunement"
+  },
+  "Energy Blast": {
+    "id": 2193,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Energy_Blast"
+  },
+  "Energy Boon": {
+    "id": 837,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Energy_Boon"
+  },
+  "Ether Prism": {
+    "id": 1377,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ether_Prism"
+  },
+  "Ether Prodigy": {
+    "id": 178,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ether_Prodigy"
+  },
+  "Ether Renewal": {
+    "id": 181,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ether_Renewal"
+  },
+  "Glyph of Energy": {
+    "id": 199,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glyph_of_Energy"
+  },
+  "Glyph of Lesser Energy": {
+    "id": 200,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glyph_of_Lesser_Energy"
+  },
+  "Glyph of Restoration": {
+    "id": 1376,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glyph_of_Restoration"
+  },
+  "Master of Magic": {
+    "id": 1378,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Master_of_Magic"
+  },
+  "Bed of Coals": {
+    "id": 825,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Bed_of_Coals"
+  },
+  "Breath of Fire": {
+    "id": 1094,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Breath_of_Fire"
+  },
+  "Burning Speed": {
+    "id": 823,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Burning_Speed"
+  },
+  "Conjure Flame": {
+    "id": 182,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Conjure_Flame"
+  },
+  "Double Dragon": {
+    "id": 1091,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Double_Dragon"
+  },
+  "Elemental Flame": {
+    "id": 1663,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Elemental_Flame"
+  },
+  "Fire Attunement": {
+    "id": 184,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Fire_Attunement"
+  },
+  "Fire Storm": {
+    "id": 197,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Fire_Storm"
+  },
+  "Fireball": {
+    "id": 186,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Fireball"
+  },
+  "Flame Burst": {
+    "id": 188,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Flame_Burst"
+  },
+  "Flame Djinn's Haste": {
+    "id": 1381,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Flame_Djinn%27s_Haste"
+  },
+  "Flare": {
+    "id": 194,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Flare"
+  },
+  "Glowing Gaze": {
+    "id": 1379,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glowing_Gaze"
+  },
+  "Glyph of Immolation": {
+    "id": 2060,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glyph_of_Immolation"
+  },
+  "Immolate": {
+    "id": 191,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Immolate"
+  },
+  "Incendiary Bonds": {
+    "id": 179,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Incendiary_Bonds"
+  },
+  "Inferno": {
+    "id": 183,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Inferno"
+  },
+  "Lava Arrows": {
+    "id": 824,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lava_Arrows"
+  },
+  "Lava Font": {
+    "id": 195,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lava_Font"
+  },
+  "Liquid Flame": {
+    "id": 845,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Liquid_Flame"
+  },
+  "Mark of Rodgort": {
+    "id": 190,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mark_of_Rodgort"
+  },
+  "Meteor": {
+    "id": 187,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Meteor"
+  },
+  "Meteor Shower": {
+    "id": 192,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Meteor_Shower"
+  },
+  "Mind Blast": {
+    "id": 1662,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mind_Blast"
+  },
+  "Mind Burn": {
+    "id": 185,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mind_Burn"
+  },
+  "Phoenix": {
+    "id": 193,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Phoenix"
+  },
+  "Rodgort's Invocation": {
+    "id": 189,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rodgort%27s_Invocation"
+  },
+  "Savannah Heat": {
+    "id": 1380,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Savannah_Heat"
+  },
+  "Searing Flames": {
+    "id": 884,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Searing_Flames"
+  },
+  "Searing Heat": {
+    "id": 196,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Searing_Heat"
+  },
+  "Smoldering Embers": {
+    "id": 1090,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Smoldering_Embers"
+  },
+  "Star Burst": {
+    "id": 1095,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Star_Burst"
+  },
+  "Teinai's Heat": {
+    "id": 1093,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Teinai%27s_Heat"
+  },
+  "Armor of Frost": {
+    "id": 206,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Armor_of_Frost"
+  },
+  "Armor of Mist": {
+    "id": 238,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Armor_of_Mist"
+  },
+  "Blurred Vision": {
+    "id": 235,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blurred_Vision"
+  },
+  "Conjure Frost": {
+    "id": 207,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Conjure_Frost"
+  },
+  "Deep Freeze": {
+    "id": 234,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Deep_Freeze"
+  },
+  "Freezing Gust": {
+    "id": 1382,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Freezing_Gust"
+  },
+  "Frigid Armor": {
+    "id": 1261,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Frigid_Armor"
+  },
+  "Frozen Burst": {
+    "id": 212,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Frozen_Burst"
+  },
+  "Glowing Ice": {
+    "id": 2192,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glowing_Ice"
+  },
+  "Ice Prison": {
+    "id": 210,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ice_Prison"
+  },
+  "Ice Spear": {
+    "id": 214,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ice_Spear"
+  },
+  "Ice Spikes": {
+    "id": 211,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ice_Spikes"
+  },
+  "Icy Prism": {
+    "id": 903,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Icy_Prism"
+  },
+  "Icy Shackles": {
+    "id": 939,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Icy_Shackles"
+  },
+  "Maelstrom": {
+    "id": 215,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Maelstrom"
+  },
+  "Mind Freeze": {
+    "id": 209,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mind_Freeze"
+  },
+  "Mirror of Ice": {
+    "id": 1098,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mirror_of_Ice"
+  },
+  "Mist Form": {
+    "id": 236,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mist_Form"
+  },
+  "Rust": {
+    "id": 204,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rust"
+  },
+  "Shard Storm": {
+    "id": 213,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shard_Storm"
+  },
+  "Shatterstone": {
+    "id": 809,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shatterstone"
+  },
+  "Slippery Ground": {
+    "id": 2191,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Slippery_Ground"
+  },
+  "Steam": {
+    "id": 846,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Steam"
+  },
+  "Swirling Aura": {
+    "id": 233,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Swirling_Aura"
+  },
+  "Teinai's Prison": {
+    "id": 1097,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Teinai%27s_Prison"
+  },
+  "Vapor Blade": {
+    "id": 866,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vapor_Blade"
+  },
+  "Ward Against Harm": {
+    "id": 239,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ward_Against_Harm"
+  },
+  "Water Attunement": {
+    "id": 208,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Water_Attunement"
+  },
+  "Water Trident": {
+    "id": 237,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Water_Trident"
+  },
+  "Winter's Embrace": {
+    "id": 1999,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Winter%27s_Embrace"
+  },
+  "Glyph of Concentration": {
+    "id": 201,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glyph_of_Concentration"
+  },
+  "Glyph of Elemental Power": {
+    "id": 198,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glyph_of_Elemental_Power"
+  },
+  "Glyph of Essence": {
+    "id": 1096,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glyph_of_Essence"
+  },
+  "Glyph of Renewal": {
+    "id": 203,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glyph_of_Renewal"
+  },
+  "Glyph of Sacrifice": {
+    "id": 202,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glyph_of_Sacrifice"
+  },
+  "Second Wind": {
+    "id": 1088,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Second_Wind"
+  },
+  "Assassin's Remedy": {
+    "id": 1639,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Assassin%27s_Remedy"
+  },
+  "Black Lotus Strike": {
+    "id": 779,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Black_Lotus_Strike"
+  },
+  "Critical Defenses": {
+    "id": 1027,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Critical_Defenses"
+  },
+  "Critical Eye": {
+    "id": 1018,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Critical_Eye"
+  },
+  "Critical Strike": {
+    "id": 1019,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Critical_Strike"
+  },
+  "Dark Apostasy": {
+    "id": 1029,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dark_Apostasy"
+  },
+  "Deadly Haste": {
+    "id": 1638,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Deadly_Haste"
+  },
+  "Locust's Fury": {
+    "id": 1030,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Locust%27s_Fury"
+  },
+  "Malicious Strike": {
+    "id": 1633,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Malicious_Strike"
+  },
+  "Palm Strike": {
+    "id": 1045,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Palm_Strike"
+  },
+  "Seeping Wound": {
+    "id": 1034,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Seeping_Wound"
+  },
+  "Sharpen Daggers": {
+    "id": 926,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sharpen_Daggers"
+  },
+  "Shattering Assault": {
+    "id": 1634,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shattering_Assault"
+  },
+  "Twisting Fangs": {
+    "id": 776,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Twisting_Fangs"
+  },
+  "Unsuspecting Strike": {
+    "id": 783,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Unsuspecting_Strike"
+  },
+  "Way of the Assassin": {
+    "id": 1649,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Way_of_the_Assassin"
+  },
+  "Way of the Master": {
+    "id": 2187,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Way_of_the_Master"
+  },
+  "Black Mantis Thrust": {
+    "id": 1024,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Black_Mantis_Thrust"
+  },
+  "Black Spider Strike": {
+    "id": 1636,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Black_Spider_Strike"
+  },
+  "Blades of Steel": {
+    "id": 1020,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blades_of_Steel"
+  },
+  "Death Blossom": {
+    "id": 775,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Death_Blossom"
+  },
+  "Desperate Strike": {
+    "id": 948,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Desperate_Strike"
+  },
+  "Disrupting Stab": {
+    "id": 1025,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Disrupting_Stab"
+  },
+  "Exhausting Assault": {
+    "id": 975,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Exhausting_Assault"
+  },
+  "Falling Lotus Strike": {
+    "id": 1990,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Falling_Lotus_Strike"
+  },
+  "Falling Spider": {
+    "id": 778,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Falling_Spider"
+  },
+  "Flashing Blades": {
+    "id": 1042,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Flashing_Blades"
+  },
+  "Fox Fangs": {
+    "id": 780,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Fox_Fangs"
+  },
+  "Fox's Promise": {
+    "id": 1640,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Fox%27s_Promise"
+  },
+  "Golden Fang Strike": {
+    "id": 1988,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Golden_Fang_Strike"
+  },
+  "Golden Fox Strike": {
+    "id": 1637,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Golden_Fox_Strike"
+  },
+  "Golden Lotus Strike": {
+    "id": 1026,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Golden_Lotus_Strike"
+  },
+  "Golden Phoenix Strike": {
+    "id": 989,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Golden_Phoenix_Strike"
+  },
+  "Golden Skull Strike": {
+    "id": 1635,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Golden_Skull_Strike"
+  },
+  "Horns of the Ox": {
+    "id": 777,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Horns_of_the_Ox"
+  },
+  "Jagged Strike": {
+    "id": 782,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Jagged_Strike"
+  },
+  "Jungle Strike": {
+    "id": 1021,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Jungle_Strike"
+  },
+  "Leaping Mantis Sting": {
+    "id": 1023,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Leaping_Mantis_Sting"
+  },
+  "Lotus Strike": {
+    "id": 1987,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lotus_Strike"
+  },
+  "Moebius Strike": {
+    "id": 781,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Moebius_Strike"
+  },
+  "Nine Tail Strike": {
+    "id": 986,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Nine_Tail_Strike"
+  },
+  "Repeating Strike": {
+    "id": 976,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Repeating_Strike"
+  },
+  "Temple Strike": {
+    "id": 988,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Temple_Strike"
+  },
+  "Trampling Ox": {
+    "id": 2135,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Trampling_Ox"
+  },
+  "Wild Strike": {
+    "id": 1022,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wild_Strike"
+  },
+  "Assassin's Promise": {
+    "id": 1035,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Assassin%27s_Promise"
+  },
+  "Augury of Death": {
+    "id": 1646,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Augury_of_Death"
+  },
+  "Crippling Dagger": {
+    "id": 1038,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Crippling_Dagger"
+  },
+  "Dancing Daggers": {
+    "id": 858,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dancing_Daggers"
+  },
+  "Dark Prison": {
+    "id": 1044,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dark_Prison"
+  },
+  "Deadly Paradox": {
+    "id": 572,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Deadly_Paradox"
+  },
+  "Disrupting Dagger": {
+    "id": 571,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Disrupting_Dagger"
+  },
+  "Enduring Toxin": {
+    "id": 800,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Enduring_Toxin"
+  },
+  "Entangling Asp": {
+    "id": 784,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Entangling_Asp"
+  },
+  "Expose Defenses": {
+    "id": 802,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Expose_Defenses"
+  },
+  "Expunge Enchantments": {
+    "id": 990,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Expunge_Enchantments"
+  },
+  "Impale": {
+    "id": 1033,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Impale"
+  },
+  "Iron Palm": {
+    "id": 786,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Iron_Palm"
+  },
+  "Mantis Touch": {
+    "id": 974,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mantis_Touch"
+  },
+  "Mark of Death": {
+    "id": 785,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mark_of_Death"
+  },
+  "Mark of Insecurity": {
+    "id": 570,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mark_of_Insecurity"
+  },
+  "Sadist's Signet": {
+    "id": 1991,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sadist%27s_Signet"
+  },
+  "Scorpion Wire": {
+    "id": 815,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Scorpion_Wire"
+  },
+  "Shadow Fang": {
+    "id": 2052,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shadow_Fang"
+  },
+  "Shadow Prison": {
+    "id": 1652,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shadow_Prison"
+  },
+  "Shameful Fear": {
+    "id": 927,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shameful_Fear"
+  },
+  "Shroud of Silence": {
+    "id": 801,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shroud_of_Silence"
+  },
+  "Signet of Deadly Corruption": {
+    "id": 2186,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Deadly_Corruption"
+  },
+  "Signet of Shadows": {
+    "id": 876,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Shadows"
+  },
+  "Signet of Toxic Shock": {
+    "id": 1647,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Toxic_Shock"
+  },
+  "Siphon Speed": {
+    "id": 951,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Siphon_Speed"
+  },
+  "Siphon Strength": {
+    "id": 827,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Siphon_Strength"
+  },
+  "Vampiric Assault": {
+    "id": 1986,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vampiric_Assault"
+  },
+  "Way of the Empty Palm": {
+    "id": 987,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Way_of_the_Empty_Palm"
+  },
+  "Beguiling Haze": {
+    "id": 799,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Beguiling_Haze"
+  },
+  "Blinding Powder": {
+    "id": 973,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blinding_Powder"
+  },
+  "Caltrops": {
+    "id": 985,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Caltrops"
+  },
+  "Dark Escape": {
+    "id": 1037,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dark_Escape"
+  },
+  "Death's Charge": {
+    "id": 952,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Death%27s_Charge"
+  },
+  "Death's Retreat": {
+    "id": 1651,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Death%27s_Retreat"
+  },
+  "Feigned Neutrality": {
+    "id": 1641,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Feigned_Neutrality"
+  },
+  "Heart of Shadow": {
+    "id": 1032,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Heart_of_Shadow"
+  },
+  "Hidden Caltrops": {
+    "id": 1642,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Hidden_Caltrops"
+  },
+  "Mirrored Stance": {
+    "id": 816,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mirrored_Stance"
+  },
+  "Return": {
+    "id": 770,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Return"
+  },
+  "Shadow Form": {
+    "id": 826,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shadow_Form"
+  },
+  "Shadow of Haste": {
+    "id": 929,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shadow_of_Haste"
+  },
+  "Shadow Refuge": {
+    "id": 814,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shadow_Refuge"
+  },
+  "Shadow Shroud": {
+    "id": 928,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shadow_Shroud"
+  },
+  "Shadowy Burden": {
+    "id": 950,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shadowy_Burden"
+  },
+  "Shroud of Distress": {
+    "id": 1031,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shroud_of_Distress"
+  },
+  "Smoke Powder Defense": {
+    "id": 2136,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Smoke_Powder_Defense"
+  },
+  "Unseen Fury": {
+    "id": 1041,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Unseen_Fury"
+  },
+  "Viper's Defense": {
+    "id": 769,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Viper%27s_Defense"
+  },
+  "Way of Perfection": {
+    "id": 1028,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Way_of_Perfection"
+  },
+  "Way of the Fox": {
+    "id": 949,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Way_of_the_Fox"
+  },
+  "Way of the Lotus": {
+    "id": 977,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Way_of_the_Lotus"
+  },
+  "Assault Enchantments": {
+    "id": 1643,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Assault_Enchantments"
+  },
+  "Aura of Displacement": {
+    "id": 771,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Aura_of_Displacement"
+  },
+  "Dash": {
+    "id": 1043,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dash"
+  },
+  "Lift Enchantment": {
+    "id": 1645,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lift_Enchantment"
+  },
+  "Mark of Instability": {
+    "id": 978,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mark_of_Instability"
+  },
+  "Recall": {
+    "id": 925,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Recall"
+  },
+  "Shadow Meld": {
+    "id": 1654,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shadow_Meld"
+  },
+  "Shadow Walk": {
+    "id": 1650,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shadow_Walk"
+  },
+  "Signet of Malice": {
+    "id": 1036,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Malice"
+  },
+  "Signet of Twilight": {
+    "id": 1648,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Twilight"
+  },
+  "Spirit Walk": {
+    "id": 1040,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spirit_Walk"
+  },
+  "Swap": {
+    "id": 1653,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Swap"
+  },
+  "Wastrel's Collapse": {
+    "id": 1644,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wastrel%27s_Collapse"
+  },
+  "Agony": {
+    "id": 2205,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Agony"
+  },
+  "Ancestors' Rage": {
+    "id": 1246,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ancestors%27_Rage"
+  },
+  "Bloodsong": {
+    "id": 1253,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Bloodsong"
+  },
+  "Caretaker's Charge": {
+    "id": 1744,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Caretaker%27s_Charge"
+  },
+  "Channeled Strike": {
+    "id": 1225,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Channeled_Strike"
+  },
+  "Clamor of Souls": {
+    "id": 1215,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Clamor_of_Souls"
+  },
+  "Cruel Was Daoshen": {
+    "id": 1218,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Cruel_Was_Daoshen"
+  },
+  "Destruction": {
+    "id": 920,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Destruction"
+  },
+  "Destructive Was Glaive": {
+    "id": 1732,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Destructive_Was_Glaive"
+  },
+  "Essence Strike": {
+    "id": 1227,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Essence_Strike"
+  },
+  "Gaze from Beyond": {
+    "id": 1245,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Gaze_from_Beyond"
+  },
+  "Gaze of Fury": {
+    "id": 1734,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Gaze_of_Fury"
+  },
+  "Grasping Was Kuurong": {
+    "id": 789,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Grasping_Was_Kuurong"
+  },
+  "Lamentation": {
+    "id": 916,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lamentation"
+  },
+  "Nightmare Weapon": {
+    "id": 795,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Nightmare_Weapon"
+  },
+  "Offering of Spirit": {
+    "id": 1479,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Offering_of_Spirit"
+  },
+  "Painful Bond": {
+    "id": 1237,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Painful_Bond"
+  },
+  "Renewing Surge": {
+    "id": 1478,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Renewing_Surge"
+  },
+  "Signet of Spirits": {
+    "id": 1239,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Spirits"
+  },
+  "Spirit Boon Strike": {
+    "id": 1226,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spirit_Boon_Strike"
+  },
+  "Spirit Burn": {
+    "id": 919,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spirit_Burn"
+  },
+  "Spirit Rift": {
+    "id": 910,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spirit_Rift"
+  },
+  "Spirit Siphon": {
+    "id": 1228,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spirit_Siphon"
+  },
+  "Splinter Weapon": {
+    "id": 792,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Splinter_Weapon"
+  },
+  "Wailing Weapon": {
+    "id": 794,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wailing_Weapon"
+  },
+  "Warmonger's Weapon": {
+    "id": 1751,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Warmonger%27s_Weapon"
+  },
+  "Weapon of Aggression": {
+    "id": 2073,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Weapon_of_Aggression"
+  },
+  "Weapon of Fury": {
+    "id": 1749,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Weapon_of_Fury"
+  },
+  "Wielder's Strike": {
+    "id": 1733,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wielder%27s_Strike"
+  },
+  "Destructive Was Glaive (PvP)": {
+    "id": 3157,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Destructive_Was_Glaive_(PvP)"
+  },
+  "Anguish": {
+    "id": 1745,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Anguish"
+  },
+  "Armor of Unfeeling": {
+    "id": 1232,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Armor_of_Unfeeling"
+  },
+  "Binding Chains": {
+    "id": 1236,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Binding_Chains"
+  },
+  "Brutal Weapon": {
+    "id": 1258,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Brutal_Weapon"
+  },
+  "Disenchantment": {
+    "id": 923,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Disenchantment"
+  },
+  "Displacement": {
+    "id": 1249,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Displacement"
+  },
+  "Dissonance": {
+    "id": 921,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dissonance"
+  },
+  "Dulled Weapon": {
+    "id": 1235,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dulled_Weapon"
+  },
+  "Earthbind": {
+    "id": 1252,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Earthbind"
+  },
+  "Ghostly Weapon": {
+    "id": 2206,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ghostly_Weapon"
+  },
+  "Guided Weapon": {
+    "id": 1259,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Guided_Weapon"
+  },
+  "Mighty Was Vorizun": {
+    "id": 773,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mighty_Was_Vorizun"
+  },
+  "Pain": {
+    "id": 1247,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pain"
+  },
+  "Restoration": {
+    "id": 963,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Restoration"
+  },
+  "Shadowsong": {
+    "id": 871,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shadowsong"
+  },
+  "Shelter": {
+    "id": 982,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shelter"
+  },
+  "Signet of Ghostly Might": {
+    "id": 1742,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Ghostly_Might"
+  },
+  "Soothing": {
+    "id": 1266,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Soothing"
+  },
+  "Sundering Weapon": {
+    "id": 2148,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sundering_Weapon"
+  },
+  "Union": {
+    "id": 911,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Union"
+  },
+  "Vital Weapon": {
+    "id": 1267,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vital_Weapon"
+  },
+  "Wanderlust": {
+    "id": 1255,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wanderlust"
+  },
+  "Weapon of Quickening": {
+    "id": 1268,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Weapon_of_Quickening"
+  },
+  "Blind Was Mingson": {
+    "id": 788,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blind_Was_Mingson"
+  },
+  "Death Pact Signet": {
+    "id": 1481,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Death_Pact_Signet"
+  },
+  "Defiant Was Xinrae": {
+    "id": 812,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Defiant_Was_Xinrae"
+  },
+  "Flesh of My Flesh": {
+    "id": 791,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Flesh_of_My_Flesh"
+  },
+  "Generous Was Tsungrai": {
+    "id": 772,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Generous_Was_Tsungrai"
+  },
+  "Ghostmirror Light": {
+    "id": 1741,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ghostmirror_Light"
+  },
+  "Life": {
+    "id": 1251,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Life"
+  },
+  "Lively Was Naomei": {
+    "id": 1222,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lively_Was_Naomei"
+  },
+  "Mend Body and Soul": {
+    "id": 1234,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mend_Body_and_Soul"
+  },
+  "Mending Grip": {
+    "id": 2202,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mending_Grip"
+  },
+  "Preservation": {
+    "id": 1250,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Preservation"
+  },
+  "Protective Was Kaolai": {
+    "id": 1219,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Protective_Was_Kaolai"
+  },
+  "Pure Was Li Ming": {
+    "id": 2072,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pure_Was_Li_Ming"
+  },
+  "Recovery": {
+    "id": 1748,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Recovery"
+  },
+  "Recuperation": {
+    "id": 981,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Recuperation"
+  },
+  "Rejuvenation": {
+    "id": 2204,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rejuvenation"
+  },
+  "Resilient Was Xiko": {
+    "id": 1221,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Resilient_Was_Xiko"
+  },
+  "Resilient Weapon": {
+    "id": 787,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Resilient_Weapon"
+  },
+  "Soothing Memories": {
+    "id": 1233,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Soothing_Memories"
+  },
+  "Spirit Light": {
+    "id": 915,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spirit_Light"
+  },
+  "Spirit Light Weapon": {
+    "id": 1257,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spirit_Light_Weapon"
+  },
+  "Spirit Transfer": {
+    "id": 962,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spirit_Transfer"
+  },
+  "Spiritleech Aura": {
+    "id": 2203,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spiritleech_Aura"
+  },
+  "Tranquil Was Tanasen": {
+    "id": 913,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Tranquil_Was_Tanasen"
+  },
+  "Vengeful Was Khanhei": {
+    "id": 790,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vengeful_Was_Khanhei"
+  },
+  "Vengeful Weapon": {
+    "id": 964,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vengeful_Weapon"
+  },
+  "Vocal Was Sogolon": {
+    "id": 1731,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vocal_Was_Sogolon"
+  },
+  "Weapon of Remedy": {
+    "id": 1752,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Weapon_of_Remedy"
+  },
+  "Weapon of Shadow": {
+    "id": 983,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Weapon_of_Shadow"
+  },
+  "Weapon of Warding": {
+    "id": 793,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Weapon_of_Warding"
+  },
+  "Wielder's Boon": {
+    "id": 1265,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wielder%27s_Boon"
+  },
+  "Xinrae's Weapon": {
+    "id": 1750,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Xinrae%27s_Weapon"
+  },
+  "Anguished Was Lingwah": {
+    "id": 1223,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Anguished_Was_Lingwah"
+  },
+  "Attuned Was Songkai": {
+    "id": 1220,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Attuned_Was_Songkai"
+  },
+  "Boon of Creation": {
+    "id": 1230,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Boon_of_Creation"
+  },
+  "Consume Soul": {
+    "id": 914,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Consume_Soul"
+  },
+  "Doom": {
+    "id": 1264,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Doom"
+  },
+  "Empowerment": {
+    "id": 1747,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Empowerment"
+  },
+  "Energetic Was Lee Sa": {
+    "id": 2016,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Energetic_Was_Lee_Sa"
+  },
+  "Explosive Growth": {
+    "id": 1229,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Explosive_Growth"
+  },
+  "Feast of Souls": {
+    "id": 980,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Feast_of_Souls"
+  },
+  "Ghostly Haste": {
+    "id": 1244,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ghostly_Haste"
+  },
+  "Reclaim Essence": {
+    "id": 1482,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Reclaim_Essence"
+  },
+  "Renewing Memories": {
+    "id": 1739,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Renewing_Memories"
+  },
+  "Ritual Lord": {
+    "id": 1217,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ritual_Lord"
+  },
+  "Rupture Soul": {
+    "id": 917,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rupture_Soul"
+  },
+  "Sight Beyond Sight": {
+    "id": 1738,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sight_Beyond_Sight"
+  },
+  "Signet of Binding": {
+    "id": 1743,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Binding"
+  },
+  "Signet of Creation": {
+    "id": 1238,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Creation"
+  },
+  "Soul Twisting": {
+    "id": 1240,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Soul_Twisting"
+  },
+  "Spirit Channeling": {
+    "id": 1231,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spirit_Channeling"
+  },
+  "Spirit to Flesh": {
+    "id": 918,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spirit_to_Flesh"
+  },
+  "Spirit's Gift": {
+    "id": 1480,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spirit%27s_Gift"
+  },
+  "Spirit's Strength": {
+    "id": 1736,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spirit%27s_Strength"
+  },
+  "Weapon of Renewal": {
+    "id": 2149,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Weapon_of_Renewal"
+  },
+  "Wielder's Remedy": {
+    "id": 1740,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wielder%27s_Remedy"
+  },
+  "Wielder's Zeal": {
+    "id": 1737,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wielder%27s_Zeal"
+  },
+  "Draw Spirit": {
+    "id": 1224,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Draw_Spirit"
+  },
+  "\"Brace Yourself!\"": {
+    "id": 1572,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Brace_Yourself!%22"
+  },
+  "\"Can't Touch This!\"": {
+    "id": 1780,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Can%27t_Touch_This!%22"
+  },
+  "\"Fall Back!\"": {
+    "id": 1595,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Fall_Back!%22"
+  },
+  "\"Find Their Weakness!\"": {
+    "id": 1781,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Find_Their_Weakness!%22"
+  },
+  "\"Go for the Eyes!\"": {
+    "id": 1558,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Go_for_the_Eyes!%22"
+  },
+  "\"Help Me!\"": {
+    "id": 1594,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Help_Me!%22"
+  },
+  "\"Incoming!\"": {
+    "id": 1596,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Incoming!%22"
+  },
+  "\"Make Haste!\"": {
+    "id": 1591,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Make_Haste!%22"
+  },
+  "\"Never Give Up!\"": {
+    "id": 1593,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Never_Give_Up!%22"
+  },
+  "\"Never Surrender!\"": {
+    "id": 1598,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Never_Surrender!%22"
+  },
+  "\"Stand Your Ground!\"": {
+    "id": 1589,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Stand_Your_Ground!%22"
+  },
+  "\"We Shall Return!\"": {
+    "id": 1592,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22We_Shall_Return!%22"
+  },
+  "Anthem of Disruption": {
+    "id": 2018,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Anthem_of_Disruption"
+  },
+  "Anthem of Envy": {
+    "id": 1559,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Anthem_of_Envy"
+  },
+  "Anthem of Guidance": {
+    "id": 1568,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Anthem_of_Guidance"
+  },
+  "Anthem of Weariness": {
+    "id": 2017,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Anthem_of_Weariness"
+  },
+  "Bladeturn Refrain": {
+    "id": 1580,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Bladeturn_Refrain"
+  },
+  "Crippling Anthem": {
+    "id": 1554,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Crippling_Anthem"
+  },
+  "Godspeed": {
+    "id": 1556,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Godspeed"
+  },
+  "\"Lead the Way!\"": {
+    "id": 1590,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Lead_the_Way!%22"
+  },
+  "\"Make Your Time!\"": {
+    "id": 1779,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Make_Your_Time!%22"
+  },
+  "\"They're on Fire!\"": {
+    "id": 1597,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22They%27re_on_Fire!%22"
+  },
+  "Aggressive Refrain": {
+    "id": 1774,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Aggressive_Refrain"
+  },
+  "Angelic Bond": {
+    "id": 1587,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Angelic_Bond"
+  },
+  "Angelic Protection": {
+    "id": 1586,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Angelic_Protection"
+  },
+  "Anthem of Flame": {
+    "id": 1557,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Anthem_of_Flame"
+  },
+  "Anthem of Fury": {
+    "id": 1553,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Anthem_of_Fury"
+  },
+  "Awe": {
+    "id": 1573,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Awe"
+  },
+  "Blazing Finale": {
+    "id": 1575,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blazing_Finale"
+  },
+  "Burning Refrain": {
+    "id": 1576,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Burning_Refrain"
+  },
+  "Burning Shield": {
+    "id": 2208,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Burning_Shield"
+  },
+  "Defensive Anthem": {
+    "id": 1555,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Defensive_Anthem"
+  },
+  "Enduring Harmony": {
+    "id": 1574,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Enduring_Harmony"
+  },
+  "Focused Anger": {
+    "id": 1769,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Focused_Anger"
+  },
+  "Glowing Signet": {
+    "id": 1581,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glowing_Signet"
+  },
+  "Hasty Refrain": {
+    "id": 2075,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Hasty_Refrain"
+  },
+  "Leader's Comfort": {
+    "id": 1584,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Leader%27s_Comfort"
+  },
+  "Natural Temper": {
+    "id": 1770,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Natural_Temper"
+  },
+  "Signet of Return": {
+    "id": 1778,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Return"
+  },
+  "Soldier's Fury": {
+    "id": 1773,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Soldier%27s_Fury"
+  },
+  "Spear Swipe": {
+    "id": 2210,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spear_Swipe"
+  },
+  "\"It's Just a Flesh Wound.\"": {
+    "id": 1599,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22It%27s_Just_a_Flesh_Wound.%22"
+  },
+  "\"The Power Is Yours!\"": {
+    "id": 1782,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22The_Power_Is_Yours!%22"
+  },
+  "Aria of Restoration": {
+    "id": 1566,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Aria_of_Restoration"
+  },
+  "Aria of Zeal": {
+    "id": 1562,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Aria_of_Zeal"
+  },
+  "Ballad of Restoration": {
+    "id": 1564,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ballad_of_Restoration"
+  },
+  "Chorus of Restoration": {
+    "id": 1565,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Chorus_of_Restoration"
+  },
+  "Energizing Chorus": {
+    "id": 1569,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Energizing_Chorus"
+  },
+  "Energizing Finale": {
+    "id": 1775,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Energizing_Finale"
+  },
+  "Finale of Restoration": {
+    "id": 1577,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Finale_of_Restoration"
+  },
+  "Inspirational Speech": {
+    "id": 2207,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Inspirational_Speech"
+  },
+  "Leader's Zeal": {
+    "id": 1583,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Leader%27s_Zeal"
+  },
+  "Lyric of Purification": {
+    "id": 1772,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lyric_of_Purification"
+  },
+  "Lyric of Zeal": {
+    "id": 1563,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lyric_of_Zeal"
+  },
+  "Mending Refrain": {
+    "id": 1578,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mending_Refrain"
+  },
+  "Purifying Finale": {
+    "id": 1579,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Purifying_Finale"
+  },
+  "Signet of Synergy": {
+    "id": 1585,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Synergy"
+  },
+  "Song of Power": {
+    "id": 1560,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Song_of_Power"
+  },
+  "Song of Purification": {
+    "id": 1570,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Song_of_Purification"
+  },
+  "Song of Restoration": {
+    "id": 1771,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Song_of_Restoration"
+  },
+  "Zealous Anthem": {
+    "id": 1561,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Zealous_Anthem"
+  },
+  "Cruel Spear": {
+    "id": 1548,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Cruel_Spear"
+  },
+  "Barbed Spear": {
+    "id": 1600,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Barbed_Spear"
+  },
+  "Blazing Spear": {
+    "id": 1546,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blazing_Spear"
+  },
+  "Chest Thumper": {
+    "id": 2074,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Chest_Thumper"
+  },
+  "Disrupting Throw": {
+    "id": 1604,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Disrupting_Throw"
+  },
+  "Harrier's Toss": {
+    "id": 1549,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Harrier%27s_Toss"
+  },
+  "Holy Spear": {
+    "id": 2209,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Holy_Spear"
+  },
+  "Maiming Spear": {
+    "id": 2150,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Maiming_Spear"
+  },
+  "Merciless Spear": {
+    "id": 1603,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Merciless_Spear"
+  },
+  "Mighty Throw": {
+    "id": 1547,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mighty_Throw"
+  },
+  "Slayer's Spear": {
+    "id": 1783,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Slayer%27s_Spear"
+  },
+  "Spear of Lightning": {
+    "id": 1551,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spear_of_Lightning"
+  },
+  "Spear of Redemption": {
+    "id": 2238,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spear_of_Redemption"
+  },
+  "Stunning Strike": {
+    "id": 1602,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Stunning_Strike"
+  },
+  "Swift Javelin": {
+    "id": 1784,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Swift_Javelin"
+  },
+  "Unblockable Throw": {
+    "id": 1550,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Unblockable_Throw"
+  },
+  "Vicious Attack": {
+    "id": 1601,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vicious_Attack"
+  },
+  "Wearying Spear": {
+    "id": 1552,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wearying_Spear"
+  },
+  "Wild Throw": {
+    "id": 1605,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wild_Throw"
+  },
+  "Cautery Signet": {
+    "id": 1588,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Cautery_Signet"
+  },
+  "Hexbreaker Aria": {
+    "id": 1571,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Hexbreaker_Aria"
+  },
+  "Remedy Signet": {
+    "id": 1777,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Remedy_Signet"
+  },
+  "Signet of Aggression": {
+    "id": 1776,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Aggression"
+  },
+  "Song of Concentration": {
+    "id": 1567,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Song_of_Concentration"
+  },
+  "Armor of Sanctity": {
+    "id": 1515,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Armor_of_Sanctity"
+  },
+  "Aura of Thorns": {
+    "id": 1495,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Aura_of_Thorns"
+  },
+  "Conviction": {
+    "id": 1540,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Conviction"
+  },
+  "Dust Cloak": {
+    "id": 1497,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dust_Cloak"
+  },
+  "Ebon Dust Aura": {
+    "id": 1760,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ebon_Dust_Aura"
+  },
+  "Fleeting Stability": {
+    "id": 1514,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Fleeting_Stability"
+  },
+  "Mirage Cloak": {
+    "id": 1500,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mirage_Cloak"
+  },
+  "Mystic Regeneration": {
+    "id": 1516,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mystic_Regeneration"
+  },
+  "Mystic Sandstorm": {
+    "id": 1532,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mystic_Sandstorm"
+  },
+  "Pious Concentration": {
+    "id": 1542,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pious_Concentration"
+  },
+  "Sand Shards": {
+    "id": 1510,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sand_Shards"
+  },
+  "Shield of Force": {
+    "id": 2201,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shield_of_Force"
+  },
+  "Signet of Pious Light": {
+    "id": 1530,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Pious_Light"
+  },
+  "Staggering Force": {
+    "id": 1498,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Staggering_Force"
+  },
+  "Veil of Thorns": {
+    "id": 1757,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Veil_of_Thorns"
+  },
+  "Vital Boon": {
+    "id": 1506,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vital_Boon"
+  },
+  "Vow of Strength": {
+    "id": 1759,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vow_of_Strength"
+  },
+  "Arcane Zeal": {
+    "id": 1502,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Arcane_Zeal"
+  },
+  "Aura Slicer": {
+    "id": 2070,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Aura_Slicer"
+  },
+  "Avatar of Balthazar": {
+    "id": 1518,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Avatar_of_Balthazar"
+  },
+  "Avatar of Dwayna": {
+    "id": 1519,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Avatar_of_Dwayna"
+  },
+  "Avatar of Grenth": {
+    "id": 1520,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Avatar_of_Grenth"
+  },
+  "Avatar of Lyssa": {
+    "id": 1521,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Avatar_of_Lyssa"
+  },
+  "Avatar of Melandru": {
+    "id": 1522,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Avatar_of_Melandru"
+  },
+  "Balthazar's Rage": {
+    "id": 1496,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Balthazar%27s_Rage"
+  },
+  "Banishing Strike": {
+    "id": 1483,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Banishing_Strike"
+  },
+  "Eremite's Zeal": {
+    "id": 1524,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Eremite%27s_Zeal"
+  },
+  "Extend Enchantments": {
+    "id": 1508,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Extend_Enchantments"
+  },
+  "Faithful Intervention": {
+    "id": 1509,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Faithful_Intervention"
+  },
+  "Heart of Fury": {
+    "id": 1762,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Heart_of_Fury"
+  },
+  "Heart of Holy Flame": {
+    "id": 1507,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Heart_of_Holy_Flame"
+  },
+  "Imbue Health": {
+    "id": 1526,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Imbue_Health"
+  },
+  "Intimidating Aura": {
+    "id": 1531,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Intimidating_Aura"
+  },
+  "Meditation": {
+    "id": 1523,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Meditation"
+  },
+  "Mystic Corruption": {
+    "id": 1755,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mystic_Corruption"
+  },
+  "Mystic Sweep": {
+    "id": 1484,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mystic_Sweep"
+  },
+  "Mystic Vigor": {
+    "id": 1503,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mystic_Vigor"
+  },
+  "Pious Fury": {
+    "id": 2146,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pious_Fury"
+  },
+  "Pious Haste": {
+    "id": 1543,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pious_Haste"
+  },
+  "Pious Renewal": {
+    "id": 1499,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pious_Renewal"
+  },
+  "Rending Touch": {
+    "id": 1534,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rending_Touch"
+  },
+  "Vow of Silence": {
+    "id": 1517,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vow_of_Silence"
+  },
+  "Watchful Intervention": {
+    "id": 1504,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Watchful_Intervention"
+  },
+  "Zealous Renewal": {
+    "id": 1763,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Zealous_Renewal"
+  },
+  "Lyssa's Assault": {
+    "id": 1538,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lyssa%27s_Assault"
+  },
+  "Chilling Victory": {
+    "id": 1539,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Chilling_Victory"
+  },
+  "Crippling Sweep": {
+    "id": 1535,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Crippling_Sweep"
+  },
+  "Crippling Victory": {
+    "id": 2147,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Crippling_Victory"
+  },
+  "Eremite's Attack": {
+    "id": 1485,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Eremite%27s_Attack"
+  },
+  "Farmer's Scythe": {
+    "id": 2015,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Farmer%27s_Scythe"
+  },
+  "Irresistible Sweep": {
+    "id": 1489,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Irresistible_Sweep"
+  },
+  "Pious Assault": {
+    "id": 1490,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pious_Assault"
+  },
+  "Radiant Scythe": {
+    "id": 2012,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Radiant_Scythe"
+  },
+  "Reap Impurities": {
+    "id": 1486,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Reap_Impurities"
+  },
+  "Reaper's Sweep": {
+    "id": 1767,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Reaper%27s_Sweep"
+  },
+  "Rending Sweep": {
+    "id": 1753,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rending_Sweep"
+  },
+  "Twin Moon Sweep": {
+    "id": 1487,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Twin_Moon_Sweep"
+  },
+  "Victorious Sweep": {
+    "id": 1488,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Victorious_Sweep"
+  },
+  "Wearying Strike": {
+    "id": 1537,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wearying_Strike"
+  },
+  "Wounding Strike": {
+    "id": 1536,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wounding_Strike"
+  },
+  "Zealous Sweep": {
+    "id": 2071,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Zealous_Sweep"
+  },
+  "Attacker's Insight": {
+    "id": 1764,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Attacker%27s_Insight"
+  },
+  "Dwayna's Touch": {
+    "id": 1528,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dwayna%27s_Touch"
+  },
+  "Featherfoot Grace": {
+    "id": 1766,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Featherfoot_Grace"
+  },
+  "Grenth's Aura": {
+    "id": 2013,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Grenth%27s_Aura"
+  },
+  "Grenth's Fingers": {
+    "id": 1493,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Grenth%27s_Fingers"
+  },
+  "Grenth's Grasp": {
+    "id": 1756,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Grenth%27s_Grasp"
+  },
+  "Guiding Hands": {
+    "id": 1513,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Guiding_Hands"
+  },
+  "Harrier's Grasp": {
+    "id": 1758,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Harrier%27s_Grasp"
+  },
+  "Harrier's Haste": {
+    "id": 1768,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Harrier%27s_Haste"
+  },
+  "Lyssa's Haste": {
+    "id": 1512,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lyssa%27s_Haste"
+  },
+  "Mystic Healing": {
+    "id": 1527,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mystic_Healing"
+  },
+  "Mystic Twister": {
+    "id": 1491,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mystic_Twister"
+  },
+  "Natural Healing": {
+    "id": 1525,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Natural_Healing"
+  },
+  "Onslaught": {
+    "id": 1754,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Onslaught"
+  },
+  "Pious Restoration": {
+    "id": 1529,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pious_Restoration"
+  },
+  "Rending Aura": {
+    "id": 1765,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rending_Aura"
+  },
+  "Signet of Mystic Speed": {
+    "id": 2200,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Mystic_Speed"
+  },
+  "Signet of Pious Restraint": {
+    "id": 2014,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Pious_Restraint"
+  },
+  "Test of Faith": {
+    "id": 1545,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Test_of_Faith"
+  },
+  "Vow of Piety": {
+    "id": 1505,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vow_of_Piety"
+  },
+  "Whirling Charge": {
+    "id": 1544,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Whirling_Charge"
+  },
+  "Winds of Disenchantment": {
+    "id": 1533,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Winds_of_Disenchantment"
+  },
+  "Zealous Vow": {
+    "id": 1761,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Zealous_Vow"
+  },
+  "Enchanted Haste": {
+    "id": 1541,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Enchanted_Haste"
+  },
+  "Whirlwind Attack": {
+    "id": 2107,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Whirlwind_Attack"
+  },
+  "Never Rampage Alone": {
+    "id": 2108,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Never_Rampage_Alone"
+  },
+  "Seed of Life": {
+    "id": 2105,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Seed_of_Life"
+  },
+  "Necrosis": {
+    "id": 2103,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Necrosis"
+  },
+  "Cry of Pain": {
+    "id": 2102,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Cry_of_Pain"
+  },
+  "Intensity": {
+    "id": 2104,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Intensity"
+  },
+  "Critical Agility": {
+    "id": 2101,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Critical_Agility"
+  },
+  "Vampirism": {
+    "id": 2110,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vampirism"
+  },
+  "\"There's Nothing to Fear!\"": {
+    "id": 2112,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22There%27s_Nothing_to_Fear!%22"
+  },
+  "Eternal Aura": {
+    "id": 2109,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Eternal_Aura"
+  },
+  "Sunspear Rebirth Signet": {
+    "id": 1816,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sunspear_Rebirth_Signet"
+  },
+  "Lightbringer Signet": {
+    "id": 1815,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lightbringer_Signet"
+  },
+  "Lightbringer's Gaze": {
+    "id": 1814,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lightbringer%27s_Gaze"
+  },
+  "Radiation Field": {
+    "id": 2414,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Radiation_Field"
+  },
+  "Air of Superiority": {
+    "id": 2416,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Air_of_Superiority"
+  },
+  "Asuran Scan": {
+    "id": 2415,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Asuran_Scan"
+  },
+  "Mental Block": {
+    "id": 2417,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mental_Block"
+  },
+  "Mindbender": {
+    "id": 2411,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mindbender"
+  },
+  "Pain Inverter": {
+    "id": 2418,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pain_Inverter"
+  },
+  "Smooth Criminal": {
+    "id": 2412,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Smooth_Criminal"
+  },
+  "Summon Ice Imp": {
+    "id": 2226,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Summon_Ice_Imp"
+  },
+  "Summon Mursaat": {
+    "id": 2224,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Summon_Mursaat"
+  },
+  "Summon Naga Shaman": {
+    "id": 2227,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Summon_Naga_Shaman"
+  },
+  "Summon Ruby Djinn": {
+    "id": 2225,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Summon_Ruby_Djinn"
+  },
+  "Technobabble": {
+    "id": 2413,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Technobabble"
+  },
+  "\"By Ural's Hammer!\"": {
+    "id": 2217,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22By_Ural%27s_Hammer!%22"
+  },
+  "\"Don't Trip!\"": {
+    "id": 2216,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Don%27t_Trip!%22"
+  },
+  "Alkar's Alchemical Acid": {
+    "id": 2211,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Alkar%27s_Alchemical_Acid"
+  },
+  "Black Powder Mine": {
+    "id": 2223,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Black_Powder_Mine"
+  },
+  "Brawling Headbutt": {
+    "id": 2215,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Brawling_Headbutt"
+  },
+  "Breath of the Great Dwarf": {
+    "id": 2221,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Breath_of_the_Great_Dwarf"
+  },
+  "Drunken Master": {
+    "id": 2218,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Drunken_Master"
+  },
+  "Dwarven Stability": {
+    "id": 2423,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dwarven_Stability"
+  },
+  "Ear Bite": {
+    "id": 2213,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ear_Bite"
+  },
+  "Great Dwarf Armor": {
+    "id": 2220,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Great_Dwarf_Armor"
+  },
+  "Great Dwarf Weapon": {
+    "id": 2219,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Great_Dwarf_Weapon"
+  },
+  "Light of Deldrimor": {
+    "id": 2212,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Light_of_Deldrimor"
+  },
+  "Low Blow": {
+    "id": 2214,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Low_Blow"
+  },
+  "Snow Storm": {
+    "id": 2222,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Snow_Storm"
+  },
+  "Deft Strike": {
+    "id": 2228,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Deft_Strike"
+  },
+  "Ebon Battle Standard of Courage": {
+    "id": 2231,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ebon_Battle_Standard_of_Courage"
+  },
+  "Ebon Battle Standard of Honor": {
+    "id": 2233,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ebon_Battle_Standard_of_Honor"
+  },
+  "Ebon Battle Standard of Wisdom": {
+    "id": 2232,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ebon_Battle_Standard_of_Wisdom"
+  },
+  "Ebon Escape": {
+    "id": 2420,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ebon_Escape"
+  },
+  "Ebon Vanguard Assassin Support": {
+    "id": 2235,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ebon_Vanguard_Assassin_Support"
+  },
+  "Ebon Vanguard Sniper Support": {
+    "id": 2234,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ebon_Vanguard_Sniper_Support"
+  },
+  "Signet of Infection": {
+    "id": 2229,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Infection"
+  },
+  "Sneak Attack": {
+    "id": 2116,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sneak_Attack"
+  },
+  "Tryptophan Signet": {
+    "id": 2230,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Tryptophan_Signet"
+  },
+  "Weakness Trap": {
+    "id": 2421,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Weakness_Trap"
+  },
+  "Winds": {
+    "id": 2422,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Winds"
+  },
+  "\"Dodge This!\"": {
+    "id": 2354,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Dodge_This!%22"
+  },
+  "\"Finish Him!\"": {
+    "id": 2353,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Finish_Him!%22"
+  },
+  "\"I Am the Strongest!\"": {
+    "id": 2355,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22I_Am_the_Strongest!%22"
+  },
+  "\"I Am Unstoppable!\"": {
+    "id": 2356,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22I_Am_Unstoppable!%22"
+  },
+  "\"You Are All Weaklings!\"": {
+    "id": 2359,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22You_Are_All_Weaklings!%22"
+  },
+  "\"You Move Like a Dwarf!\"": {
+    "id": 2358,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22You_Move_Like_a_Dwarf!%22"
+  },
+  "A Touch of Guile": {
+    "id": 2357,
+    "detailsPage": "https://wiki.guildwars.com/wiki/A_Touch_of_Guile"
+  },
+  "Club of a Thousand Bears": {
+    "id": 2361,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Club_of_a_Thousand_Bears"
+  },
+  "Feel No Pain": {
+    "id": 2360,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Feel_No_Pain"
+  },
+  "Raven Blessing": {
+    "id": 2384,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Raven_Blessing"
+  },
+  "Ursan Blessing": {
+    "id": 2374,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ursan_Blessing"
+  },
+  "Volfen Blessing": {
+    "id": 2379,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Volfen_Blessing"
+  },
+  "Enraged Smash (PvP)": {
+    "id": 2808,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Enraged_Smash_(PvP)"
+  },
+  "Renewing Smash (PvP)": {
+    "id": 3143,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Renewing_Smash_(PvP)"
+  },
+  "Defy Pain (PvP)": {
+    "id": 3204,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Defy_Pain_(PvP)"
+  },
+  "Warrior's Endurance (PvP)": {
+    "id": 3002,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Warrior%27s_Endurance_(PvP)"
+  },
+  "\"Watch Yourself!\" (PvP)": {
+    "id": 2858,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Watch_Yourself!%22_(PvP)"
+  },
+  "Soldier's Stance (PvP)": {
+    "id": 3156,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Soldier%27s_Stance_(PvP)"
+  },
+  "\"For Great Justice!\" (PvP)": {
+    "id": 2883,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22For_Great_Justice!%22_(PvP)"
+  },
+  "Call of Haste (PvP)": {
+    "id": 2657,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Call_of_Haste_(PvP)"
+  },
+  "Charm Animal (Codex)": {
+    "id": 3068,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Charm_Animal_(Codex)"
+  },
+  "Comfort Animal (PvP)": {
+    "id": 3045,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Comfort_Animal_(PvP)"
+  },
+  "Enraged Lunge (PvP)": {
+    "id": 3051,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Enraged_Lunge_(PvP)"
+  },
+  "Heal as One (PvP)": {
+    "id": 3144,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Heal_as_One_(PvP)"
+  },
+  "Melandru's Assault (PvP)": {
+    "id": 3047,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Melandru%27s_Assault_(PvP)"
+  },
+  "Predatory Bond (PvP)": {
+    "id": 3050,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Predatory_Bond_(PvP)"
+  },
+  "Expert's Dexterity (PvP)": {
+    "id": 2959,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Expert%27s_Dexterity_(PvP)"
+  },
+  "Escape (PvP)": {
+    "id": 3060,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Escape_(PvP)"
+  },
+  "Glass Arrows (PvP)": {
+    "id": 3145,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Glass_Arrows_(PvP)"
+  },
+  "Lightning Reflexes (PvP)": {
+    "id": 3141,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lightning_Reflexes_(PvP)"
+  },
+  "Penetrating Attack (PvP)": {
+    "id": 2861,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Penetrating_Attack_(PvP)"
+  },
+  "Read the Wind (PvP)": {
+    "id": 2969,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Read_the_Wind_(PvP)"
+  },
+  "Sloth Hunter's Shot (PvP)": {
+    "id": 2925,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sloth_Hunter%27s_Shot_(PvP)"
+  },
+  "Sundering Attack (PvP)": {
+    "id": 2864,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Sundering_Attack_(PvP)"
+  },
+  "Keen Arrow (PvP)": {
+    "id": 3147,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Keen_Arrow_(PvP)"
+  },
+  "Smiter's Boon (PvP)": {
+    "id": 2895,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Smiter%27s_Boon_(PvP)"
+  },
+  "Unyielding Aura (PvP)": {
+    "id": 2891,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Unyielding_Aura_(PvP)"
+  },
+  "Light of Deliverance (PvP)": {
+    "id": 2871,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Light_of_Deliverance_(PvP)"
+  },
+  "Heal Party (PvP)": {
+    "id": 3232,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Heal_Party_(PvP)"
+  },
+  "Aegis (PvP)": {
+    "id": 2857,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Aegis_(PvP)"
+  },
+  "Spirit Bond (PvP)": {
+    "id": 2892,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spirit_Bond_(PvP)"
+  },
+  "Signet of Judgment (PvP)": {
+    "id": 2887,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Judgment_(PvP)"
+  },
+  "Strength of Honor (PvP)": {
+    "id": 2999,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Strength_of_Honor_(PvP)"
+  },
+  "Signet of Agony (PvP)": {
+    "id": 3059,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Agony_(PvP)"
+  },
+  "Spoil Victor (PvP)": {
+    "id": 3233,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spoil_Victor_(PvP)"
+  },
+  "Unholy Feast (PvP)": {
+    "id": 3058,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Unholy_Feast_(PvP)"
+  },
+  "Enfeeble (PvP)": {
+    "id": 2859,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Enfeeble_(PvP)"
+  },
+  "Enfeebling Blood (PvP)": {
+    "id": 2885,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Enfeebling_Blood_(PvP)"
+  },
+  "Discord (PvP)": {
+    "id": 2863,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Discord_(PvP)"
+  },
+  "Masochism (PvP)": {
+    "id": 3054,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Masochism_(PvP)"
+  },
+  "Empathy (PvP)": {
+    "id": 3151,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Empathy_(PvP)"
+  },
+  "Enchanter's Conundrum (PvP)": {
+    "id": 3192,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Enchanter%27s_Conundrum_(PvP)"
+  },
+  "Mind Wrack (PvP)": {
+    "id": 2734,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mind_Wrack_(PvP)"
+  },
+  "Mistrust (PvP)": {
+    "id": 3191,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mistrust_(PvP)"
+  },
+  "Shatter Delusions (PvP)": {
+    "id": 3180,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shatter_Delusions_(PvP)"
+  },
+  "Spiritual Pain (PvP)": {
+    "id": 3189,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Spiritual_Pain_(PvP)"
+  },
+  "Unnatural Signet (PvP)": {
+    "id": 3188,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Unnatural_Signet_(PvP)"
+  },
+  "Visions of Regret (PvP)": {
+    "id": 3234,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Visions_of_Regret_(PvP)"
+  },
+  "Psychic Instability (PvP)": {
+    "id": 3185,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Psychic_Instability_(PvP)"
+  },
+  "Stolen Speed (PvP)": {
+    "id": 3187,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Stolen_Speed_(PvP)"
+  },
+  "Accumulated Pain (PvP)": {
+    "id": 3184,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Accumulated_Pain_(PvP)"
+  },
+  "Calculated Risk (PvP)": {
+    "id": 3196,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Calculated_Risk_(PvP)"
+  },
+  "Crippling Anguish (PvP)": {
+    "id": 3152,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Crippling_Anguish_(PvP)"
+  },
+  "Fevered Dreams (PvP)": {
+    "id": 3289,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Fevered_Dreams_(PvP)"
+  },
+  "Fragility (PvP)": {
+    "id": 2998,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Fragility_(PvP)"
+  },
+  "Frustration (PvP)": {
+    "id": 3190,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Frustration_(PvP)"
+  },
+  "Illusion of Haste (PvP)": {
+    "id": 3373,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Illusion_of_Haste_(PvP)"
+  },
+  "Illusion of Pain (PvP)": {
+    "id": 3374,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Illusion_of_Pain_(PvP)"
+  },
+  "Illusionary Weaponry (PvP)": {
+    "id": 3181,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Illusionary_Weaponry_(PvP)"
+  },
+  "Migraine (PvP)": {
+    "id": 3183,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Migraine_(PvP)"
+  },
+  "Shared Burden (PvP)": {
+    "id": 3186,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shared_Burden_(PvP)"
+  },
+  "Signet of Clumsiness (PvP)": {
+    "id": 3193,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Clumsiness_(PvP)"
+  },
+  "Wandering Eye (PvP)": {
+    "id": 3195,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wandering_Eye_(PvP)"
+  },
+  "Mantra of Resolve (PvP)": {
+    "id": 3063,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mantra_of_Resolve_(PvP)"
+  },
+  "Mantra of Signets (PvP)": {
+    "id": 3179,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mantra_of_Signets_(PvP)"
+  },
+  "Mirror of Disenchantment (PvP)": {
+    "id": 3194,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mirror_of_Disenchantment_(PvP)"
+  },
+  "Web of Disruption (PvP)": {
+    "id": 3386,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Web_of_Disruption_(PvP)"
+  },
+  "Lightning Hammer (PvP)": {
+    "id": 3396,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lightning_Hammer_(PvP)"
+  },
+  "Mind Shock (PvP)": {
+    "id": 2804,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mind_Shock_(PvP)"
+  },
+  "Ride the Lightning (PvP)": {
+    "id": 2807,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ride_the_Lightning_(PvP)"
+  },
+  "Obsidian Flame (PvP)": {
+    "id": 2809,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Obsidian_Flame_(PvP)"
+  },
+  "Ether Renewal (PvP)": {
+    "id": 2860,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ether_Renewal_(PvP)"
+  },
+  "Aura of Restoration (PvP)": {
+    "id": 3375,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Aura_of_Restoration_(PvP)"
+  },
+  "Elemental Flame (PvP)": {
+    "id": 3397,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Elemental_Flame_(PvP)"
+  },
+  "Savannah Heat (PvP)": {
+    "id": 3021,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Savannah_Heat_(PvP)"
+  },
+  "Mind Freeze (PvP)": {
+    "id": 2803,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mind_Freeze_(PvP)"
+  },
+  "Mist Form (PvP)": {
+    "id": 2805,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mist_Form_(PvP)"
+  },
+  "Slippery Ground (PvP)": {
+    "id": 3398,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Slippery_Ground_(PvP)"
+  },
+  "Ward Against Harm (PvP)": {
+    "id": 2806,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ward_Against_Harm_(PvP)"
+  },
+  "Assassin's Remedy (PvP)": {
+    "id": 2869,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Assassin%27s_Remedy_(PvP)"
+  },
+  "Death Blossom (PvP)": {
+    "id": 3061,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Death_Blossom_(PvP)"
+  },
+  "Fox Fangs (PvP)": {
+    "id": 3251,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Fox_Fangs_(PvP)"
+  },
+  "Wild Strike (PvP)": {
+    "id": 3252,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wild_Strike_(PvP)"
+  },
+  "Signet of Deadly Corruption (PvP)": {
+    "id": 3053,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Deadly_Corruption_(PvP)"
+  },
+  "Shadow Form (PvP)": {
+    "id": 2862,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shadow_Form_(PvP)"
+  },
+  "Shroud of Distress (PvP)": {
+    "id": 3048,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shroud_of_Distress_(PvP)"
+  },
+  "Unseen Fury (PvP)": {
+    "id": 3049,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Unseen_Fury_(PvP)"
+  },
+  "Ancestors' Rage (PvP)": {
+    "id": 2867,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ancestors%27_Rage_(PvP)"
+  },
+  "Signet of Spirits (PvP)": {
+    "id": 2965,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Spirits_(PvP)"
+  },
+  "Splinter Weapon (PvP)": {
+    "id": 2868,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Splinter_Weapon_(PvP)"
+  },
+  "Agony (PvP)": {
+    "id": 3038,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Agony_(PvP)"
+  },
+  "Bloodsong (PvP)": {
+    "id": 3019,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Bloodsong_(PvP)"
+  },
+  "Destruction (PvP)": {
+    "id": 3008,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Destruction_(PvP)"
+  },
+  "Gaze of Fury (PvP)": {
+    "id": 3022,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Gaze_of_Fury_(PvP)"
+  },
+  "Signet of Ghostly Might (PvP)": {
+    "id": 2966,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Ghostly_Might_(PvP)"
+  },
+  "Anguish (PvP)": {
+    "id": 3023,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Anguish_(PvP)"
+  },
+  "Armor of Unfeeling (PvP)": {
+    "id": 3003,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Armor_of_Unfeeling_(PvP)"
+  },
+  "Disenchantment (PvP)": {
+    "id": 3017,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Disenchantment_(PvP)"
+  },
+  "Displacement (PvP)": {
+    "id": 3010,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Displacement_(PvP)"
+  },
+  "Dissonance (PvP)": {
+    "id": 3014,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dissonance_(PvP)"
+  },
+  "Earthbind (PvP)": {
+    "id": 3015,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Earthbind_(PvP)"
+  },
+  "Pain (PvP)": {
+    "id": 3007,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pain_(PvP)"
+  },
+  "Restoration (PvP)": {
+    "id": 3018,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Restoration_(PvP)"
+  },
+  "Shadowsong (PvP)": {
+    "id": 3006,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shadowsong_(PvP)"
+  },
+  "Shelter (PvP)": {
+    "id": 3016,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shelter_(PvP)"
+  },
+  "Soothing (PvP)": {
+    "id": 3009,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Soothing_(PvP)"
+  },
+  "Union (PvP)": {
+    "id": 3005,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Union_(PvP)"
+  },
+  "Wanderlust (PvP)": {
+    "id": 3020,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wanderlust_(PvP)"
+  },
+  "Death Pact Signet (PvP)": {
+    "id": 2872,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Death_Pact_Signet_(PvP)"
+  },
+  "Flesh of My Flesh (PvP)": {
+    "id": 2866,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Flesh_of_My_Flesh_(PvP)"
+  },
+  "Weapon of Warding (PvP)": {
+    "id": 2893,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Weapon_of_Warding_(PvP)"
+  },
+  "Life (PvP)": {
+    "id": 3012,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Life_(PvP)"
+  },
+  "Preservation (PvP)": {
+    "id": 3011,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Preservation_(PvP)"
+  },
+  "Recovery (PvP)": {
+    "id": 3025,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Recovery_(PvP)"
+  },
+  "Recuperation (PvP)": {
+    "id": 3013,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Recuperation_(PvP)"
+  },
+  "Rejuvenation (PvP)": {
+    "id": 3039,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Rejuvenation_(PvP)"
+  },
+  "Empowerment (PvP)": {
+    "id": 3024,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Empowerment_(PvP)"
+  },
+  "\"Incoming!\" (PvP)": {
+    "id": 2879,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Incoming!%22_(PvP)"
+  },
+  "\"Never Surrender!\" (PvP)": {
+    "id": 2880,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Never_Surrender!%22_(PvP)"
+  },
+  "\"Brace Yourself!\" (PvP)": {
+    "id": 3027,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Brace_Yourself!%22_(PvP)"
+  },
+  "\"Can't Touch This!\" (PvP)": {
+    "id": 3031,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Can%27t_Touch_This!%22_(PvP)"
+  },
+  "\"Fall Back!\" (PvP)": {
+    "id": 3037,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Fall_Back!%22_(PvP)"
+  },
+  "\"Find Their Weakness!\" (PvP)": {
+    "id": 3034,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Find_Their_Weakness!%22_(PvP)"
+  },
+  "\"Go for the Eyes!\" (PvP)": {
+    "id": 3026,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Go_for_the_Eyes!%22_(PvP)"
+  },
+  "\"Help Me!\" (PvP)": {
+    "id": 3036,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Help_Me!%22_(PvP)"
+  },
+  "\"Never Give Up!\" (PvP)": {
+    "id": 3035,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Never_Give_Up!%22_(PvP)"
+  },
+  "\"Stand Your Ground!\" (PvP)": {
+    "id": 3032,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Stand_Your_Ground!%22_(PvP)"
+  },
+  "\"We Shall Return!\" (PvP)": {
+    "id": 3033,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22We_Shall_Return!%22_(PvP)"
+  },
+  "Anthem of Disruption (PvP)": {
+    "id": 3040,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Anthem_of_Disruption_(PvP)"
+  },
+  "Anthem of Envy (PvP)": {
+    "id": 3148,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Anthem_of_Envy_(PvP)"
+  },
+  "Bladeturn Refrain (PvP)": {
+    "id": 3029,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Bladeturn_Refrain_(PvP)"
+  },
+  "Defensive Anthem (PvP)": {
+    "id": 2876,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Defensive_Anthem_(PvP)"
+  },
+  "Blazing Finale (PvP)": {
+    "id": 3028,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Blazing_Finale_(PvP)"
+  },
+  "Signet of Return (PvP)": {
+    "id": 3030,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Return_(PvP)"
+  },
+  "Ballad of Restoration (PvP)": {
+    "id": 2877,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Ballad_of_Restoration_(PvP)"
+  },
+  "Song of Restoration (PvP)": {
+    "id": 2878,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Song_of_Restoration_(PvP)"
+  },
+  "Finale of Restoration (PvP)": {
+    "id": 3062,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Finale_of_Restoration_(PvP)"
+  },
+  "Mending Refrain (PvP)": {
+    "id": 3149,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mending_Refrain_(PvP)"
+  },
+  "Harrier's Toss (PvP)": {
+    "id": 2875,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Harrier%27s_Toss_(PvP)"
+  },
+  "Mystic Regeneration (PvP)": {
+    "id": 2884,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mystic_Regeneration_(PvP)"
+  },
+  "Aura of Thorns (PvP)": {
+    "id": 3346,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Aura_of_Thorns_(PvP)"
+  },
+  "Dust Cloak (PvP)": {
+    "id": 3347,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Dust_Cloak_(PvP)"
+  },
+  "Avatar of Dwayna (PvP)": {
+    "id": 3270,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Avatar_of_Dwayna_(PvP)"
+  },
+  "Avatar of Melandru (PvP)": {
+    "id": 3271,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Avatar_of_Melandru_(PvP)"
+  },
+  "Banishing Strike (PvP)": {
+    "id": 3263,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Banishing_Strike_(PvP)"
+  },
+  "Heart of Fury (PvP)": {
+    "id": 3366,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Heart_of_Fury_(PvP)"
+  },
+  "Pious Fury (PvP)": {
+    "id": 3368,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pious_Fury_(PvP)"
+  },
+  "Irresistible Sweep (PvP)": {
+    "id": 3265,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Irresistible_Sweep_(PvP)"
+  },
+  "Pious Assault (PvP)": {
+    "id": 3266,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Pious_Assault_(PvP)"
+  },
+  "Twin Moon Sweep (PvP)": {
+    "id": 3264,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Twin_Moon_Sweep_(PvP)"
+  },
+  "Wounding Strike (PvP)": {
+    "id": 3367,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Wounding_Strike_(PvP)"
+  },
+  "Guiding Hands (PvP)": {
+    "id": 3269,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Guiding_Hands_(PvP)"
+  },
+  "Lyssa's Haste (PvP)": {
+    "id": 3348,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Lyssa%27s_Haste_(PvP)"
+  },
+  "Mystic Healing (PvP)": {
+    "id": 3272,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Mystic_Healing_(PvP)"
+  },
+  "Onslaught (PvP)": {
+    "id": 3365,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Onslaught_(PvP)"
+  },
+  "Signet of Pious Restraint (PvP)": {
+    "id": 3273,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Signet_of_Pious_Restraint_(PvP)"
+  },
+  "Time Ward": {
+    "id": 3422,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Time_Ward"
+  },
+  "Soul Taker": {
+    "id": 3423,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Soul_Taker"
+  },
+  "Over the Limit": {
+    "id": 3424,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Over_the_Limit"
+  },
+  "Judgment Strike": {
+    "id": 3425,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Judgment_Strike"
+  },
+  "Seven Weapons Stance": {
+    "id": 3426,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Seven_Weapons_Stance"
+  },
+  "\"Together as One!\"": {
+    "id": 3427,
+    "detailsPage": "https://wiki.guildwars.com/wiki/%22Together_as_One!%22"
+  },
+  "Shadow Theft": {
+    "id": 3428,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Shadow_Theft"
+  },
+  "Weapons of Three Forges": {
+    "id": 3429,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Weapons_of_Three_Forges"
+  },
+  "Vow of Revolution": {
+    "id": 3430,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Vow_of_Revolution"
+  },
+  "Heroic Refrain": {
+    "id": 3431,
+    "detailsPage": "https://wiki.guildwars.com/wiki/Heroic_Refrain"
+  }
+}
