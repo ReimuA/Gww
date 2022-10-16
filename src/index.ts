@@ -60,6 +60,7 @@ async function getAllDataFromSkill(url: string): Promise<SkillsDetails> {
     };
 }
 
+
 async function exec() {
     // The html is an edited version of the skills Id Hosted at GWW, with an id inserted in the desired element (start of the table body)
     // see https://wiki.guildwars.com/wiki/Skill_template_format/Skill_list for references
@@ -69,7 +70,7 @@ async function exec() {
 
     const tableElements = tableBody.childNodes.filter(child => child.constructor.name === "HTMLElement")
 
-    const skills: any = {}
+    const skills: { [key: string]: { id: number, detailsPage: string | undefined } } = {}
 
     for (let i = 1; i < tableElements.length; i++) {
         const currentTableElem = tableElements[i].childNodes.filter(child => child.constructor.name === "HTMLElement")
@@ -82,9 +83,20 @@ async function exec() {
 
     writeFileSync("./skills.json", JSON.stringify(skills, null, 2))
 
+    const skillsDetails: { [key: string]: SkillsDetails } = {}
 
+    console.log(tableElements.length)
+    for (const skillName in skills) {
+        try {
+            skillsDetails[skillName] = await getAllDataFromSkill(skills[skillName].detailsPage ?? "");
+            console.log(skillName + " OK")
+            await new Promise(resolve => setTimeout(resolve, 1000));
+        } catch (e) {
+            console.log(skillName + "  " + e)
+        }
+    }
 
-    console.log(await getAllDataFromSkill(skills["Dragon's Stomp"].detailsPage))
+    writeFileSync("./skills-details.json", JSON.stringify(skillsDetails, null, 2))
 
 }
 
